@@ -1,0 +1,12 @@
+[
+    {
+      "name": "__lolfantasy_session",
+      "value": "Fe26.2*1*f8c8ebc4ddbb036086d9cff9b585e0e69b260e1572479b804cddbf01540e1deb*1t5vIHH4A4OvljAbja6xfg*JHn0HdHqeiS0onyqxxT0U7RJK7s7FnT6WQFnjmZYMwDkotj0aFBfeNGyPSz5ZgQxSxS1yV6UlOLf1nRbNu2k9XFSBypbZdXehpdCAxqaqYV2Cd-Z0fz06ZUXHFcoUds2jDHv5C5YZAuHSMICeb2-JywhseYc_6iORv0ra9n6K1ussfzrPXB0fu-DV5JB7587*1746845700158*d2f91fed09d1f7c04afde19d65d26fa53f70b6c18a9c3b5e5a0554e29b1c331d*hxJ-D3GJbnXW_033sGMBAXtwK-N6ts7Mhaz_zL_enQs~2",
+      "domain": "ltafantasy.com",
+      "path": "/",
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ]
+  
