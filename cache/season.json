@@ -1,0 +1,839 @@
+{
+  "data": {
+    "split": {
+      "id": "5fed2197-0542-416b-a816-db409135f510",
+      "name": "Split 2",
+      "year": 2025
+    },
+    "players": [
+      {
+        "proPlayerId": "75bb14b4-8430-401f-b73b-87c8a8c0af38",
+        "playerName": "Disamis",
+        "averageRoundScore": 21.634,
+        "maxRoundScore": 30.240000000000002,
+        "minRoundScore": 11.646666666666667,
+        "lastRoundScore": 18.353333333333335,
+        "lastRoundPrice": 13.5
+      },
+      {
+        "proPlayerId": "728578de-d384-40d7-9008-22dbb71806d3",
+        "playerName": "Saint",
+        "averageRoundScore": 15.214333333333334,
+        "maxRoundScore": 25.91,
+        "minRoundScore": 3.7466666666666666,
+        "lastRoundScore": 15.780000000000001,
+        "lastRoundPrice": 10.4
+      },
+      {
+        "proPlayerId": "68896c24-6e9a-4965-af34-c702d8827ac7",
+        "playerName": "Kisee",
+        "averageRoundScore": 19.424,
+        "maxRoundScore": 31.005,
+        "minRoundScore": 12.81,
+        "lastRoundScore": 15.94,
+        "lastRoundPrice": 11.9
+      },
+      {
+        "proPlayerId": "1f221bb6-145c-4f20-9dff-a83e8fd49ed2",
+        "playerName": "DOOM",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": 8.440000000000001,
+        "lastRoundScore": null,
+        "lastRoundPrice": 9.2
+      },
+      {
+        "proPlayerId": "5a2e6a51-614e-46d6-a6a9-9b56656bfa54",
+        "playerName": "Vulcan",
+        "averageRoundScore": 23.455333333333332,
+        "maxRoundScore": 36.55,
+        "minRoundScore": 15.003333333333332,
+        "lastRoundScore": 15.003333333333332,
+        "lastRoundPrice": 14.1
+      },
+      {
+        "proPlayerId": "7bfe2036-c781-4239-a8a0-1270527e2dae",
+        "playerName": "Trymbi",
+        "averageRoundScore": 19.884333333333338,
+        "maxRoundScore": 23.45,
+        "minRoundScore": 15.416666666666666,
+        "lastRoundScore": 18.16,
+        "lastRoundPrice": 12
+      },
+      {
+        "proPlayerId": "5bb085f8-f5dc-4537-8318-dab4b866cb6f",
+        "playerName": "Kuri",
+        "averageRoundScore": 19.264,
+        "maxRoundScore": 23.255000000000003,
+        "minRoundScore": 15.455,
+        "lastRoundScore": 21.396666666666665,
+        "lastRoundPrice": 13.2
+      },
+      {
+        "proPlayerId": "aba985dc-5036-4b4d-baec-1113cd4dbeb0",
+        "playerName": "Summit",
+        "averageRoundScore": 9.730833333333333,
+        "maxRoundScore": 11.506666666666666,
+        "minRoundScore": 6.23,
+        "lastRoundScore": 11.006666666666666,
+        "lastRoundPrice": 7.3
+      },
+      {
+        "proPlayerId": "d8ac82c7-d791-4732-86c8-a8118b8096dd",
+        "playerName": "Fuuu",
+        "averageRoundScore": 15.948333333333334,
+        "maxRoundScore": 24.655,
+        "minRoundScore": 6.446666666666666,
+        "lastRoundScore": 10.745000000000001,
+        "lastRoundPrice": 9.7
+      },
+      {
+        "proPlayerId": "b819d7d6-b955-43bb-addd-7073835c7958",
+        "playerName": "SCARY",
+        "averageRoundScore": 11.769333333333334,
+        "maxRoundScore": 18.463333333333335,
+        "minRoundScore": 3.53,
+        "lastRoundScore": 13.093333333333334,
+        "lastRoundPrice": 8.6
+      },
+      {
+        "proPlayerId": "e9efbc14-d2ac-4815-8b69-c672132e5620",
+        "playerName": "Sheiden",
+        "averageRoundScore": 14.282999999999998,
+        "maxRoundScore": 21.700000000000003,
+        "minRoundScore": 5.435,
+        "lastRoundScore": 14.91,
+        "lastRoundPrice": 8.5
+      },
+      {
+        "proPlayerId": "c8642a8d-ef37-48d3-8cdf-a2cff1a7762a",
+        "playerName": "Shini",
+        "averageRoundScore": 14.190999999999999,
+        "maxRoundScore": 21.7,
+        "minRoundScore": 6.0200000000000005,
+        "lastRoundScore": 17.384999999999998,
+        "lastRoundPrice": 9.2
+      },
+      {
+        "proPlayerId": "f948f864-e0b3-42a6-84a4-0b299460a17e",
+        "playerName": "Guigo",
+        "averageRoundScore": 19.05,
+        "maxRoundScore": 23.346666666666664,
+        "minRoundScore": 11.905,
+        "lastRoundScore": 21.405,
+        "lastRoundPrice": 12.9
+      },
+      {
+        "proPlayerId": "96830fde-b650-4a3d-bca0-71a34f163f38",
+        "playerName": "Wiz",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "1ac1f17b-4cd5-4227-9da3-49ffe726a3c5",
+        "playerName": "Ceos",
+        "averageRoundScore": 9.056666666666667,
+        "maxRoundScore": 15.839999999999998,
+        "minRoundScore": 0.375,
+        "lastRoundScore": 5.683333333333334,
+        "lastRoundPrice": 5.7
+      },
+      {
+        "proPlayerId": "41e552f5-e58d-4e11-9e3e-e10a279af8b2",
+        "playerName": "Mago",
+        "averageRoundScore": 13.536666666666667,
+        "maxRoundScore": 15.879999999999999,
+        "minRoundScore": 12.165,
+        "lastRoundScore": 12.64,
+        "lastRoundPrice": 8.7
+      },
+      {
+        "proPlayerId": "eeaf2848-0e3f-4a52-97d5-4f9ae9be5a2c",
+        "playerName": "Boal",
+        "averageRoundScore": 17.615,
+        "maxRoundScore": 25.6,
+        "minRoundScore": 13.01333333333333,
+        "lastRoundScore": 13.536666666666667,
+        "lastRoundPrice": 10.5
+      },
+      {
+        "proPlayerId": "3d069aeb-9508-4c56-a390-b6dda95527c4",
+        "playerName": "Quad",
+        "averageRoundScore": 19.960333333333335,
+        "maxRoundScore": 27.935000000000002,
+        "minRoundScore": 17.195,
+        "lastRoundScore": 17.63,
+        "lastRoundPrice": 13.3
+      },
+      {
+        "proPlayerId": "5fd6d733-cabc-4603-8222-095065333e02",
+        "playerName": "Luuukz",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "d04c0d8f-c618-4536-a8c4-d80f822306cc",
+        "playerName": "Bvoy",
+        "averageRoundScore": 14.965333333333334,
+        "maxRoundScore": 21.55666666666667,
+        "minRoundScore": 7.82,
+        "lastRoundScore": 7.82,
+        "lastRoundPrice": 9
+      },
+      {
+        "proPlayerId": "4cce3077-b9b4-45d7-9f12-4cb74b272196",
+        "playerName": "Isles",
+        "averageRoundScore": 16.320333333333334,
+        "maxRoundScore": 21.096666666666668,
+        "minRoundScore": 7.795,
+        "lastRoundScore": 20.71,
+        "lastRoundPrice": 10.2
+      },
+      {
+        "proPlayerId": "f3563287-59b0-40a6-9251-5d23b730a66f",
+        "playerName": "zynts",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "95fbe27d-8294-4098-974f-6fe4847f2148",
+        "playerName": "Hidan",
+        "averageRoundScore": 8.317,
+        "maxRoundScore": 12.435,
+        "minRoundScore": 4.43,
+        "lastRoundScore": 9.215,
+        "lastRoundPrice": 5.6
+      },
+      {
+        "proPlayerId": "dd62c243-55ca-45ec-b536-90c5e24db6ce",
+        "playerName": "ceo",
+        "averageRoundScore": 10.062999999999999,
+        "maxRoundScore": 16.98,
+        "minRoundScore": 2.285,
+        "lastRoundScore": 9.666666666666666,
+        "lastRoundPrice": 7.5
+      },
+      {
+        "proPlayerId": "0080abb2-552f-41e5-84ac-3402b1d1a671",
+        "playerName": "Burdol",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": 2.555,
+        "lastRoundScore": null,
+        "lastRoundPrice": 7
+      },
+      {
+        "proPlayerId": "c587db65-e3da-49e6-81c1-2cc9bcd71cb2",
+        "playerName": "Brance",
+        "averageRoundScore": 18.08266666666667,
+        "maxRoundScore": 28.855000000000004,
+        "minRoundScore": 7.835,
+        "lastRoundScore": 7.835,
+        "lastRoundPrice": 12
+      },
+      {
+        "proPlayerId": "35a4dc04-9766-48c5-8f9f-e5a8f264734c",
+        "playerName": "Hena",
+        "averageRoundScore": 13.353666666666665,
+        "maxRoundScore": 20.84,
+        "minRoundScore": 4.45,
+        "lastRoundScore": 17.296666666666667,
+        "lastRoundPrice": 9.3
+      },
+      {
+        "proPlayerId": "789c27b4-ae49-4182-b529-6aced2e84830",
+        "playerName": "Robo",
+        "averageRoundScore": 15.508000000000001,
+        "maxRoundScore": 21.73,
+        "minRoundScore": 11.406666666666666,
+        "lastRoundScore": 21.73,
+        "lastRoundPrice": 11
+      },
+      {
+        "proPlayerId": "48c588fd-35f6-4f4b-a7aa-90d6b15a607f",
+        "playerName": "Loki ",
+        "averageRoundScore": 20.82133333333333,
+        "maxRoundScore": 29.044999999999998,
+        "minRoundScore": 13.293333333333331,
+        "lastRoundScore": 13.293333333333331,
+        "lastRoundPrice": 12.6
+      },
+      {
+        "proPlayerId": "a0b27a33-2bab-400f-8499-d5ec914dd0f1",
+        "playerName": "ScaryJerry",
+        "averageRoundScore": 8.861,
+        "maxRoundScore": 14.595,
+        "minRoundScore": 6.080000000000001,
+        "lastRoundScore": 8.5,
+        "lastRoundPrice": 5.9
+      },
+      {
+        "proPlayerId": "c643e2c1-94c7-4c6e-afd4-1389ad5bcdb9",
+        "playerName": "Bwipo",
+        "averageRoundScore": 21.829333333333334,
+        "maxRoundScore": 29.71,
+        "minRoundScore": 11.69,
+        "lastRoundScore": 11.69,
+        "lastRoundPrice": 13.7
+      },
+      {
+        "proPlayerId": "bdb4f785-38d6-428e-b6ea-f09924c43129",
+        "playerName": "Massu",
+        "averageRoundScore": 20.849666666666668,
+        "maxRoundScore": 26.47,
+        "minRoundScore": 13.065,
+        "lastRoundScore": 25.990000000000006,
+        "lastRoundPrice": 13.7
+      },
+      {
+        "proPlayerId": "a3650631-5b35-4067-b4f6-833c0a5a2326",
+        "playerName": "cody",
+        "averageRoundScore": 12.568666666666669,
+        "maxRoundScore": 26.10666666666667,
+        "minRoundScore": 5.015000000000001,
+        "lastRoundScore": 9.776666666666667,
+        "lastRoundPrice": 9.6
+      },
+      {
+        "proPlayerId": "58165fa8-10c9-4a4e-8850-d796a510b2f8",
+        "playerName": "Oddielan",
+        "averageRoundScore": 15.261333333333331,
+        "maxRoundScore": 20.683333333333334,
+        "minRoundScore": 5.323333333333333,
+        "lastRoundScore": 20.683333333333334,
+        "lastRoundPrice": 10.3
+      },
+      {
+        "proPlayerId": "f816aaa5-3310-4b52-9929-a8c94bcca72b",
+        "playerName": "Lyonz",
+        "averageRoundScore": 17.497666666666664,
+        "maxRoundScore": 23.564999999999998,
+        "minRoundScore": 7.433333333333333,
+        "lastRoundScore": 21.399999999999995,
+        "lastRoundPrice": 11.3
+      },
+      {
+        "proPlayerId": "eb1c7f89-eeb7-42aa-b224-41876f739288",
+        "playerName": "eXyu",
+        "averageRoundScore": 6.144666666666667,
+        "maxRoundScore": 8.280000000000001,
+        "minRoundScore": 3.3449999999999998,
+        "lastRoundScore": 6.99,
+        "lastRoundPrice": 4.6
+      },
+      {
+        "proPlayerId": "34e9d678-3765-458d-b263-b53c48e85034",
+        "playerName": "ProDelta",
+        "averageRoundScore": 9.876666666666667,
+        "maxRoundScore": 15.866666666666667,
+        "minRoundScore": 2.245,
+        "lastRoundScore": 10.856666666666667,
+        "lastRoundPrice": 7.4
+      },
+      {
+        "proPlayerId": "0da01860-823a-43a5-9359-d76fa47792e6",
+        "playerName": "Srtty",
+        "averageRoundScore": 10.461333333333332,
+        "maxRoundScore": 17.22,
+        "minRoundScore": 3.4,
+        "lastRoundScore": 13.445,
+        "lastRoundPrice": 6.6
+      },
+      {
+        "proPlayerId": "c4815466-b1f8-4f84-953e-1c7a33ef4da6",
+        "playerName": "Mireu",
+        "averageRoundScore": 12.541333333333334,
+        "maxRoundScore": 18.115000000000002,
+        "minRoundScore": 1.9449999999999998,
+        "lastRoundScore": 17.566666666666666,
+        "lastRoundPrice": 9.3
+      },
+      {
+        "proPlayerId": "0af65ad9-72fd-45cb-999f-2fb84b1f17a5",
+        "playerName": "Ganks ",
+        "averageRoundScore": 9.367666666666668,
+        "maxRoundScore": 15.670000000000002,
+        "minRoundScore": 6.86,
+        "lastRoundScore": 9.2,
+        "lastRoundPrice": 6.3
+      },
+      {
+        "proPlayerId": "126a414a-52a9-4289-91f3-5370c312d825",
+        "playerName": "Zven",
+        "averageRoundScore": 24.868333333333332,
+        "maxRoundScore": 33.435,
+        "minRoundScore": 16.703333333333337,
+        "lastRoundScore": 16.703333333333337,
+        "lastRoundPrice": 15.3
+      },
+      {
+        "proPlayerId": "2b7135a1-9a5a-49a5-bed3-005df822d543",
+        "playerName": "Tomo",
+        "averageRoundScore": 13.218,
+        "maxRoundScore": 17.386666666666667,
+        "minRoundScore": 6.895,
+        "lastRoundScore": 14.08,
+        "lastRoundPrice": 8.6
+      },
+      {
+        "proPlayerId": "c3cba919-434e-4e95-a790-ffd303de6994",
+        "playerName": "CarioK",
+        "averageRoundScore": 22.359333333333336,
+        "maxRoundScore": 26.869999999999997,
+        "minRoundScore": 12.996666666666664,
+        "lastRoundScore": 12.996666666666664,
+        "lastRoundPrice": 13.9
+      },
+      {
+        "proPlayerId": "fe116c78-3595-4103-b888-c43a56f0a260",
+        "playerName": "UmTi",
+        "averageRoundScore": 18.690666666666665,
+        "maxRoundScore": 27.62,
+        "minRoundScore": 13.543333333333331,
+        "lastRoundScore": 27.62,
+        "lastRoundPrice": 12.9
+      },
+      {
+        "proPlayerId": "41bfb625-f1b0-4cc7-9284-c4724063e544",
+        "playerName": "Wizer",
+        "averageRoundScore": 21.019333333333332,
+        "maxRoundScore": 32.615,
+        "minRoundScore": 16.723333333333333,
+        "lastRoundScore": 16.723333333333333,
+        "lastRoundPrice": 13.3
+      },
+      {
+        "proPlayerId": "7333b8ee-715a-463a-9012-43b9a219ac58",
+        "playerName": "Rabelo",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "c893e0a1-e7ac-486d-bb78-8a5d45173057",
+        "playerName": "Roamer",
+        "averageRoundScore": 17.090666666666664,
+        "maxRoundScore": 23.71,
+        "minRoundScore": 10.295,
+        "lastRoundScore": 16.23,
+        "lastRoundPrice": 10.6
+      },
+      {
+        "proPlayerId": "ad1d3cd7-b135-4063-9230-529d64631ffb",
+        "playerName": "Yeon",
+        "averageRoundScore": 19.024333333333335,
+        "maxRoundScore": 39.015,
+        "minRoundScore": 13.106666666666667,
+        "lastRoundScore": 39.015,
+        "lastRoundPrice": 14.3
+      },
+      {
+        "proPlayerId": "aa8db8ec-4e94-4cd5-9a91-275fbe122727",
+        "playerName": "Inspired",
+        "averageRoundScore": 22.298333333333336,
+        "maxRoundScore": 24.14,
+        "minRoundScore": 20.635,
+        "lastRoundScore": 23.573333333333334,
+        "lastRoundPrice": 14.7
+      },
+      {
+        "proPlayerId": "36458f54-5b8a-4ea9-96c0-6a141fba61d2",
+        "playerName": "JoJo",
+        "averageRoundScore": 20.77833333333333,
+        "maxRoundScore": 24.55333333333333,
+        "minRoundScore": 17.544999999999998,
+        "lastRoundScore": 22.200000000000003,
+        "lastRoundPrice": 13.1
+      },
+      {
+        "proPlayerId": "64124525-7371-441e-8d57-66d8563d9d29",
+        "playerName": "Impact",
+        "averageRoundScore": 15.585333333333335,
+        "maxRoundScore": 23.56,
+        "minRoundScore": 8.936666666666667,
+        "lastRoundScore": 23.56,
+        "lastRoundPrice": 10.8
+      },
+      {
+        "proPlayerId": "244d03da-f31c-4261-a5a2-0c161073202d",
+        "playerName": "tinowns",
+        "averageRoundScore": 13.664666666666665,
+        "maxRoundScore": 20.653333333333332,
+        "minRoundScore": 7.265000000000001,
+        "lastRoundScore": 18.455,
+        "lastRoundPrice": 10.2
+      },
+      {
+        "proPlayerId": "89cd186d-7ba4-44e4-9f69-caaa0b1c859a",
+        "playerName": "Josedeodo",
+        "averageRoundScore": 12.87733333333333,
+        "maxRoundScore": 24.706666666666667,
+        "minRoundScore": 2.28,
+        "lastRoundScore": 24.706666666666667,
+        "lastRoundPrice": 10.1
+      },
+      {
+        "proPlayerId": "95c6d0e4-5447-49bf-a91d-a95c7e13ae24",
+        "playerName": "Contractz",
+        "averageRoundScore": 13.690000000000001,
+        "maxRoundScore": 22.03333333333333,
+        "minRoundScore": 1.715,
+        "lastRoundScore": 7.330000000000001,
+        "lastRoundPrice": 7.9
+      },
+      {
+        "proPlayerId": "2655534d-41af-45eb-9588-c95d774d6395",
+        "playerName": "fNb",
+        "averageRoundScore": 14.88,
+        "maxRoundScore": 24.869999999999997,
+        "minRoundScore": 2.475,
+        "lastRoundScore": 2.475,
+        "lastRoundPrice": 9.2
+      },
+      {
+        "proPlayerId": "ef3066b1-6975-4cbb-a1a9-001fbca927b6",
+        "playerName": "Fudge",
+        "averageRoundScore": 12.792666666666666,
+        "maxRoundScore": 18.463333333333335,
+        "minRoundScore": 9.65,
+        "lastRoundScore": 18.463333333333335,
+        "lastRoundPrice": 8.5
+      },
+      {
+        "proPlayerId": "5051003b-a465-42b8-ab18-5765d5668348",
+        "playerName": "APA",
+        "averageRoundScore": 16.259999999999998,
+        "maxRoundScore": 25.439999999999998,
+        "minRoundScore": 9.705,
+        "lastRoundScore": 20.03,
+        "lastRoundPrice": 11.1
+      },
+      {
+        "proPlayerId": "d163b755-9581-4bcb-92c8-f5a9c03e914b",
+        "playerName": "River",
+        "averageRoundScore": 16.786666666666665,
+        "maxRoundScore": 23.063333333333333,
+        "minRoundScore": 7.205,
+        "lastRoundScore": 21.405,
+        "lastRoundPrice": 12.1
+      },
+      {
+        "proPlayerId": "a3a63553-6f7e-41a3-8d18-8d01c1a98042",
+        "playerName": "Lira",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "1a3b4ead-7f50-4a9b-8a52-e03fd3b1834d",
+        "playerName": "bieLzera",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "d133f390-cbca-4fc9-990a-1698add0efcb",
+        "playerName": "Quid",
+        "averageRoundScore": 16.817,
+        "maxRoundScore": 21.875,
+        "minRoundScore": 4.795,
+        "lastRoundScore": 17.465,
+        "lastRoundPrice": 12.5
+      },
+      {
+        "proPlayerId": "f430d156-3df5-484f-8fcc-6b948efd1216",
+        "playerName": "Castle",
+        "averageRoundScore": 4.27,
+        "maxRoundScore": 9.34,
+        "minRoundScore": -1.725,
+        "lastRoundScore": -1.725,
+        "lastRoundPrice": 3.7
+      },
+      {
+        "proPlayerId": "3005d52b-b546-4654-9e75-fe779572258d",
+        "playerName": "Route",
+        "averageRoundScore": 17.256666666666668,
+        "maxRoundScore": 28.985,
+        "minRoundScore": 7.22,
+        "lastRoundScore": 28.985,
+        "lastRoundPrice": 12.5
+      },
+      {
+        "proPlayerId": "f29d20af-2ba6-4f4f-8b2c-e40705a65977",
+        "playerName": "Sniper",
+        "averageRoundScore": 14.076999999999998,
+        "maxRoundScore": 18.220000000000002,
+        "minRoundScore": 8.084999999999999,
+        "lastRoundScore": 17.325,
+        "lastRoundPrice": 9.4
+      },
+      {
+        "proPlayerId": "752c770b-7cfa-4ceb-9cbb-cd75e3f86772",
+        "playerName": "uZent",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "cafdb5d6-31c1-431c-95ba-488bc87d60f1",
+        "playerName": "CoreJJ",
+        "averageRoundScore": 21.991333333333337,
+        "maxRoundScore": 37.11,
+        "minRoundScore": 11.056666666666667,
+        "lastRoundScore": 37.11,
+        "lastRoundPrice": 15.3
+      },
+      {
+        "proPlayerId": "19898d63-2461-4436-b81e-52e4ef1c9a53",
+        "playerName": "Tutsz",
+        "averageRoundScore": 19.322333333333333,
+        "maxRoundScore": 23.455,
+        "minRoundScore": 17.064999999999998,
+        "lastRoundScore": 23.455,
+        "lastRoundPrice": 12.2
+      },
+      {
+        "proPlayerId": "7902cefc-ea05-40fe-91db-6621e8f9a13a",
+        "playerName": "Guigs",
+        "averageRoundScore": 9.763333333333332,
+        "maxRoundScore": 13.125,
+        "minRoundScore": 4.795,
+        "lastRoundScore": 13.125,
+        "lastRoundPrice": 6.5
+      },
+      {
+        "proPlayerId": "500822a5-f552-44e6-9a69-ecdbb2075356",
+        "playerName": "Ackerman",
+        "averageRoundScore": 15.105,
+        "maxRoundScore": 21.91,
+        "minRoundScore": 8.96,
+        "lastRoundScore": 21.91,
+        "lastRoundPrice": 10.8
+      },
+      {
+        "proPlayerId": "4422bc32-4b72-4eeb-afc0-76ce0946d4bb",
+        "playerName": "Blaber",
+        "averageRoundScore": 18.897333333333332,
+        "maxRoundScore": 27.615000000000002,
+        "minRoundScore": 8.11,
+        "lastRoundScore": 16.366666666666667,
+        "lastRoundPrice": 12.1
+      },
+      {
+        "proPlayerId": "d8b82dd9-bf49-4076-8add-a7c443d42aa5",
+        "playerName": "frosty",
+        "averageRoundScore": 17.748,
+        "maxRoundScore": 26.535,
+        "minRoundScore": 8.575,
+        "lastRoundScore": 8.575,
+        "lastRoundPrice": 11
+      },
+      {
+        "proPlayerId": "e739c075-d89c-4c86-9185-e1c516e64af2",
+        "playerName": "Busio",
+        "averageRoundScore": 22.615000000000002,
+        "maxRoundScore": 26.415,
+        "minRoundScore": 17.655,
+        "lastRoundScore": 21.28,
+        "lastRoundPrice": 13.9
+      },
+      {
+        "proPlayerId": "842f1251-5857-4c1a-a24f-28bccb5e6008",
+        "playerName": "TitaN",
+        "averageRoundScore": 18.418,
+        "maxRoundScore": 24.156666666666666,
+        "minRoundScore": 8.415000000000001,
+        "lastRoundScore": 20.313333333333333,
+        "lastRoundPrice": 12.6
+      },
+      {
+        "proPlayerId": "4c0fae65-cec9-43d3-ae06-c54593264623",
+        "playerName": "Licorice",
+        "averageRoundScore": 12.285,
+        "maxRoundScore": 16.18,
+        "minRoundScore": 4.88,
+        "lastRoundScore": 16.18,
+        "lastRoundPrice": 7.9
+      },
+      {
+        "proPlayerId": "ae617a87-f55d-4f0d-99fb-cf74b7a1aa59",
+        "playerName": "Aegis",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": 0,
+        "lastRoundScore": 2.92,
+        "lastRoundPrice": 9.1
+      },
+      {
+        "proPlayerId": "10855934-df24-45ba-9d94-0bde543cc154",
+        "playerName": "Morttheus",
+        "averageRoundScore": 19.709333333333337,
+        "maxRoundScore": 33.585,
+        "minRoundScore": 11.883333333333333,
+        "lastRoundScore": 12.503333333333336,
+        "lastRoundPrice": 12.1
+      },
+      {
+        "proPlayerId": "5dfe05bf-d04f-4d10-baa0-abcc8c44916b",
+        "playerName": "FBI",
+        "averageRoundScore": 17.453000000000003,
+        "maxRoundScore": 27.25,
+        "minRoundScore": 1.64,
+        "lastRoundScore": 27.25,
+        "lastRoundPrice": 13.1
+      },
+      {
+        "proPlayerId": "6a299d54-0628-49df-87f7-2f3473b41b15",
+        "playerName": "Winsome",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "d21596b1-3cfc-4eaf-a15f-910e7f4f5e88",
+        "playerName": "RedBert",
+        "averageRoundScore": 15.850333333333333,
+        "maxRoundScore": 27.384999999999998,
+        "minRoundScore": 6.285,
+        "lastRoundScore": 27.384999999999998,
+        "lastRoundPrice": 10.7
+      },
+      {
+        "proPlayerId": "72bc17f3-6be0-406b-99d5-a81186829c51",
+        "playerName": "huhi",
+        "averageRoundScore": 6.35,
+        "maxRoundScore": 10.76,
+        "minRoundScore": 3.1149999999999998,
+        "lastRoundScore": 3.235,
+        "lastRoundPrice": 4.3
+      },
+      {
+        "proPlayerId": "3f0fbcc9-0ad5-41c1-af28-35aa47117f36",
+        "playerName": "Palafox",
+        "averageRoundScore": 11.869333333333334,
+        "maxRoundScore": 21.636666666666667,
+        "minRoundScore": 5.859999999999999,
+        "lastRoundScore": 5.859999999999999,
+        "lastRoundPrice": 7.2
+      },
+      {
+        "proPlayerId": "7cf2a890-7c07-46b1-af4f-5cfff67e4728",
+        "playerName": "Thanatos",
+        "averageRoundScore": 17.288666666666664,
+        "maxRoundScore": 23.845,
+        "minRoundScore": 9.83,
+        "lastRoundScore": 13.089999999999998,
+        "lastRoundPrice": 10.4
+      },
+      {
+        "proPlayerId": "9a35f635-7437-4b2f-a9c3-5e7b04c6ceae",
+        "playerName": "Marvin",
+        "averageRoundScore": 8.815999999999999,
+        "maxRoundScore": 12.535,
+        "minRoundScore": 5.670000000000001,
+        "lastRoundScore": 8.81,
+        "lastRoundPrice": 6.2
+      },
+      {
+        "proPlayerId": "27450c86-59e3-4ac3-8ac1-87689d65fca7",
+        "playerName": "Grevthar",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "8ff411c6-f715-4bff-9a12-406d19f2fffd",
+        "playerName": "Eyla",
+        "averageRoundScore": 18.125,
+        "maxRoundScore": 25.44,
+        "minRoundScore": 4.465,
+        "lastRoundScore": 25.44,
+        "lastRoundPrice": 12.5
+      },
+      {
+        "proPlayerId": "d3034265-e29a-4ba3-91cc-a69f20af0cb0",
+        "playerName": "Ayu",
+        "averageRoundScore": 22.044333333333338,
+        "maxRoundScore": 26.65,
+        "minRoundScore": 18.593333333333334,
+        "lastRoundScore": 21.635,
+        "lastRoundPrice": 13.9
+      },
+      {
+        "proPlayerId": "33ddb3c3-f2f1-4dae-bf05-62a2ed41e927",
+        "playerName": "Zothve",
+        "averageRoundScore": 12.362666666666668,
+        "maxRoundScore": 17.32,
+        "minRoundScore": 6.449999999999999,
+        "lastRoundScore": 11.346666666666666,
+        "lastRoundPrice": 8.2
+      },
+      {
+        "proPlayerId": "9f17942a-1f46-4d19-93bb-0cd1d2aa6003",
+        "playerName": "dyNquedo",
+        "averageRoundScore": null,
+        "maxRoundScore": null,
+        "minRoundScore": null,
+        "lastRoundScore": null,
+        "lastRoundPrice": null
+      },
+      {
+        "proPlayerId": "10215def-6901-4d5b-8c2a-f3e0e89e8e53",
+        "playerName": "Keine",
+        "averageRoundScore": 12.322,
+        "maxRoundScore": 18.82,
+        "minRoundScore": 4.955,
+        "lastRoundScore": 14.875,
+        "lastRoundPrice": 8.2
+      },
+      {
+        "proPlayerId": "e1d3693e-ae0f-4b07-9ad2-d9e24297994f",
+        "playerName": "Tatu",
+        "averageRoundScore": 22.379333333333335,
+        "maxRoundScore": 29.650000000000002,
+        "minRoundScore": 12.61,
+        "lastRoundScore": 29.650000000000002,
+        "lastRoundPrice": 14.9
+      },
+      {
+        "proPlayerId": "137d0eb7-369e-41b8-b199-d4128a3254ac",
+        "playerName": "Snaker",
+        "averageRoundScore": 10.518,
+        "maxRoundScore": 17.86,
+        "minRoundScore": 1.985,
+        "lastRoundScore": 17.86,
+        "lastRoundPrice": 7.8
+      },
+      {
+        "proPlayerId": "262ca257-121f-45fd-9760-989b8625a03e",
+        "playerName": "Abbedagge",
+        "averageRoundScore": 8.135,
+        "maxRoundScore": 10.125,
+        "minRoundScore": 3.99,
+        "lastRoundScore": 3.99,
+        "lastRoundPrice": 5.2
+      }
+    ]
+  }
+}
