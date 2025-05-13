@@ -5,9 +5,10 @@ import os
 import plotly.express as px
 from api_config import integrate_data
 from utils import calcular_estatisticas, montar_time_otimo
-from sklearn.cluster import KMeans
-from sklearn.preprocessing import StandardScaler
-from sklearn.decomposition import PCA
+from sklearn.cluster import KMeans # type: ignore
+from sklearn.preprocessing import StandardScaler # type: ignore
+from sklearn.decomposition import PCA # type: ignore
+from datetime import datetime
 
 # Configuração da página
 st.set_page_config(page_title="Cartola LoL", layout="wide")
@@ -26,8 +27,19 @@ def load_settings():
     return {}
 
 def save_settings(orcamento, odds):
+    settings = load_settings()
+    historico = settings.get("historico", [])
+    historico.append({
+        "timestamp": datetime.now().isoformat(timespec='seconds'),
+        "orcamento": orcamento,
+        "odds": odds
+    })
     with open(SETTINGS_FILE, "w", encoding="utf-8") as f:
-        json.dump({"orcamento": orcamento, "odds": odds}, f, indent=2)
+        json.dump({
+            "orcamento": orcamento,
+            "odds": odds,
+            "historico": historico
+        }, f, indent=2)
 
 # Inicialização dos dados
 if "df" not in st.session_state:
