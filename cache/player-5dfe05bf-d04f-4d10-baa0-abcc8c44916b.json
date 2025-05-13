@@ -10,13 +10,13 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
-        "startsAt": "2025-05-10T23:00:00.000Z",
+        "matchId": "e46b0007-42c4-4de7-8400-2496a6c15249",
+        "startsAt": "2025-05-18T23:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
@@ -26,15 +26,32 @@
           "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
         },
         "opponentTeam": {
+          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
+          "name": "Disguised",
+          "code": "DSG",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "startsAt": "2025-05-10T23:00:00.000Z",
+        "score": 15.9,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
+        },
+        "opponentTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
           "name": "Shopify Rebellion",
           "code": "SR",
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "a69af642-ff31-41d0-95e8-673cec100423",
         "startsAt": "2025-05-04T23:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
         },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
@@ -68,13 +78,6 @@
           "name": "Round 4",
           "indexInSplit": 3
         },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
-        },
         "opponentTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
           "name": "FlyQuest",
@@ -91,13 +94,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
         },
         "opponentTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
@@ -116,13 +112,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
-        },
         "opponentTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
           "name": "LYON",
@@ -139,13 +128,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
         },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
@@ -164,13 +146,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
-        },
         "opponentTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
           "name": "Disguised",
@@ -187,13 +162,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
         },
         "opponentTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
-        },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
           "name": "Team Liquid Honda",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
-          "name": "100 Thieves",
-          "code": "100T",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
         },
         "opponentTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
@@ -458,6 +412,63 @@
           }
         ],
         "points": 21.8,
+        "pentakills": 0
+      },
+      {
+        "gameId": "3610bf12-c842-474a-9d2a-c7bc9d56a1ab",
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-10T23:00:00.000Z",
+        "championName": "Jhin",
+        "championId": 202,
+        "teamKills": 21,
+        "duration": 2292876,
+        "cs": 350.40000009536743,
+        "damage": 29184.029296875,
+        "csAt15": 144,
+        "kills": 5,
+        "deaths": 2,
+        "assists": 13,
+        "win": true,
+        "details": [
+          {
+            "count": 5,
+            "value": 7.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 13,
+            "value": 13,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": -2,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 350.4,
+            "value": 3.5,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.86,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 25,
         "pentakills": 0
       },
       {
@@ -908,6 +919,114 @@
           }
         ],
         "points": -0.56,
+        "pentakills": 0
+      },
+      {
+        "gameId": "fe24b6b2-602a-4170-834e-dc402dc93373",
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-10T23:00:00.000Z",
+        "championName": "Smolder",
+        "championId": 901,
+        "teamKills": 10,
+        "duration": 2376081,
+        "cs": 351,
+        "damage": 45925.8203125,
+        "csAt15": 148,
+        "kills": 4,
+        "deaths": 3,
+        "assists": 2,
+        "win": false,
+        "details": [
+          {
+            "count": 4,
+            "value": 6,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 351,
+            "value": 3.51,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.34,
+            "value": 3,
+            "detailType": "damage_share_30",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1159.7,
+            "value": 1.5,
+            "detailType": "bot_dpm_over_1000",
+            "displayMode": "int"
+          }
+        ],
+        "points": 13.01,
+        "pentakills": 0
+      },
+      {
+        "gameId": "b92a2cb4-42f5-4fb7-a827-0aa58895505e",
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-10T23:00:00.000Z",
+        "championName": "MissFortune",
+        "championId": 21,
+        "teamKills": 5,
+        "duration": 2388948,
+        "cs": 368.99999809265137,
+        "damage": 16892.361328125,
+        "csAt15": 153,
+        "kills": 2,
+        "deaths": 1,
+        "assists": 2,
+        "win": false,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 369,
+            "value": 3.69,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.8,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 9.69,
         "pentakills": 0
       }
     ]

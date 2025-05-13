@@ -30,7 +30,7 @@ def carregar_todos_os_players_cache():
 
 def integrate_data():
     market_raw = carregar_json_cache("market.json")
-    season_raw = carregar_json_cache("season.json")
+    season_raw = carregar_json_cache("player-stats.json")
 
     market = market_raw.get("data", {})
     season = season_raw.get("data", {})

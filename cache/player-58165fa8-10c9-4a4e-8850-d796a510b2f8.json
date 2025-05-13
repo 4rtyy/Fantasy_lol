@@ -10,13 +10,13 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
-        "startsAt": "2025-05-11T23:00:00.000Z",
+        "matchId": "2c7041c4-e46d-481c-9a91-44e5c8abdf3d",
+        "startsAt": "2025-05-18T20:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
@@ -26,15 +26,32 @@
           "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
         },
         "opponentTeam": {
+          "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
+          "name": "Dignitas",
+          "code": "DIG",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/DIG-FullonDark.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
+        "startsAt": "2025-05-11T23:00:00.000Z",
+        "score": 23.7,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
+        },
+        "opponentTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
           "name": "Disguised",
           "code": "DSG",
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "0fb10505-2895-4ab7-89ed-ff9cff075c6b",
         "startsAt": "2025-05-04T20:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
         },
         "opponentTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
@@ -62,18 +72,11 @@
       {
         "matchId": "8cb7f5e5-bd9a-42ce-80a4-e885addd327c",
         "startsAt": "2025-04-26T23:00:00.000Z",
-        "score": 11.76,
+        "score": 11.67,
         "round": {
           "id": "b39b0779-6a70-4624-b05e-26eec2cf2cbc",
           "name": "Round 4",
           "indexInSplit": 3
-        },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
         },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
@@ -92,13 +95,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
-        },
         "opponentTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
           "name": "Cloud9 Kia",
@@ -115,13 +111,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
         },
         "opponentTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
@@ -140,13 +129,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
-        },
         "opponentTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
           "name": "FlyQuest",
@@ -163,13 +145,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
         },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
@@ -188,13 +163,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
-        },
         "opponentTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
           "name": "Shopify Rebellion",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
-        },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
           "name": "Dignitas",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
-          "name": "LYON",
-          "code": "LYON",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
         },
         "opponentTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
@@ -383,6 +337,75 @@
           }
         ],
         "points": 9.58,
+        "pentakills": 0
+      },
+      {
+        "gameId": "2ba84502-5f01-490b-9126-ce3d974a08d5",
+        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-11T23:00:00.000Z",
+        "championName": "Maokai",
+        "championId": 57,
+        "teamKills": 18,
+        "duration": 2000417,
+        "cs": 196.0000152587891,
+        "damage": 16652.0546875,
+        "csAt15": 105.4000244140625,
+        "kills": 1,
+        "deaths": 1,
+        "assists": 11,
+        "win": true,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 11,
+            "value": 11,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 196,
+            "value": 1.96,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "jng_dragon_soul",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "jng_barons",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 19.96,
         "pentakills": 0
       },
       {
@@ -875,6 +898,75 @@
           }
         ],
         "points": 11.58,
+        "pentakills": 0
+      },
+      {
+        "gameId": "4fc02192-e764-414c-bab2-a83a276108ae",
+        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-11T23:00:00.000Z",
+        "championName": "Skarner",
+        "championId": 72,
+        "teamKills": 27,
+        "duration": 2022152,
+        "cs": 192.5500030517578,
+        "damage": 12374.515625,
+        "csAt15": 95.25003051757812,
+        "kills": 2,
+        "deaths": 4,
+        "assists": 20,
+        "win": true,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 20,
+            "value": 20,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 192.55,
+            "value": 1.93,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.81,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "jng_barons",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.81,
+            "value": 1.5,
+            "detailType": "jng_kp_over_75",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 27.43,
         "pentakills": 0
       },
       {

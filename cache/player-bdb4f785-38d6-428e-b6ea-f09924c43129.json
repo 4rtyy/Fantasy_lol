@@ -10,20 +10,39 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "5aa426b0-d3c1-4e14-b89e-dd69c6bdeec6",
-        "startsAt": "2025-05-11T20:00:00.000Z",
+        "matchId": "1cbe8bad-89e4-4365-a226-a0b214cee0f8",
+        "startsAt": "2025-05-17T20:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
           "name": "FlyQuest",
           "code": "FLY",
-          "side": "blue",
+          "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
+        },
+        "opponentTeam": {
+          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
+          "name": "Cloud9 Kia",
+          "code": "C9",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "5aa426b0-d3c1-4e14-b89e-dd69c6bdeec6",
+        "startsAt": "2025-05-11T20:00:00.000Z",
+        "score": 26.59,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
         },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
@@ -32,9 +51,7 @@
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/DIG-FullonDark.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "88b2abb0-0a26-4cbf-a40d-912467f5f11a",
         "startsAt": "2025-05-03T20:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
         },
         "opponentTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
@@ -68,13 +78,6 @@
           "name": "Round 4",
           "indexInSplit": 3
         },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
-        },
         "opponentTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
           "name": "100 Thieves",
@@ -91,13 +94,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
         },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
@@ -116,13 +112,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
-        },
         "opponentTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
           "name": "Cloud9 Kia",
@@ -139,13 +128,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
         },
         "opponentTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
@@ -164,13 +146,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
-        },
         "opponentTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
           "name": "Shopify Rebellion",
@@ -187,13 +162,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
         },
         "opponentTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
-        },
         "opponentTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
           "name": "Disguised",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
-          "name": "FlyQuest",
-          "code": "FLY",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
         },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
@@ -365,6 +319,81 @@
           }
         ],
         "points": 14.73,
+        "pentakills": 0
+      },
+      {
+        "gameId": "41f2aad2-f2c0-4318-abe3-8657f6f065fb",
+        "matchId": "5aa426b0-d3c1-4e14-b89e-dd69c6bdeec6",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-11T20:00:00.000Z",
+        "championName": "Varus",
+        "championId": 110,
+        "teamKills": 19,
+        "duration": 1723622,
+        "cs": 264,
+        "damage": 27069.349609375,
+        "csAt15": 161,
+        "kills": 6,
+        "deaths": 1,
+        "assists": 11,
+        "win": true,
+        "details": [
+          {
+            "count": 6,
+            "value": 9,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 11,
+            "value": 11,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "first_blood",
+            "displayMode": "single"
+          },
+          {
+            "count": 264,
+            "value": 2.64,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.89,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "triple_kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 29.64,
         "pentakills": 0
       },
       {
@@ -806,6 +835,75 @@
           }
         ],
         "points": 6.6,
+        "pentakills": 0
+      },
+      {
+        "gameId": "389edf57-b7d2-4009-961a-c17d0d70554f",
+        "matchId": "5aa426b0-d3c1-4e14-b89e-dd69c6bdeec6",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-11T20:00:00.000Z",
+        "championName": "Sivir",
+        "championId": 15,
+        "teamKills": 14,
+        "duration": 1924198,
+        "cs": 352.99999809265137,
+        "damage": 25273.435546875,
+        "csAt15": 151,
+        "kills": 4,
+        "deaths": 0,
+        "assists": 6,
+        "win": true,
+        "details": [
+          {
+            "count": 4,
+            "value": 6,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": 6,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 353,
+            "value": 3.53,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.71,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 3,
+            "detailType": "perfect_scores",
+            "displayMode": "single"
+          }
+        ],
+        "points": 23.53,
         "pentakills": 0
       },
       {

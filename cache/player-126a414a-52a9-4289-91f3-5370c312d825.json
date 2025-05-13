@@ -10,13 +10,13 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "9596eff9-049e-4961-89e8-9e42d6a1604e",
-        "startsAt": "2025-05-10T20:00:00.000Z",
+        "matchId": "1cbe8bad-89e4-4365-a226-a0b214cee0f8",
+        "startsAt": "2025-05-17T20:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
@@ -26,15 +26,32 @@
           "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
         },
         "opponentTeam": {
+          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
+          "name": "FlyQuest",
+          "code": "FLY",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "9596eff9-049e-4961-89e8-9e42d6a1604e",
+        "startsAt": "2025-05-10T20:00:00.000Z",
+        "score": 26.85,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
+        },
+        "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
           "name": "Team Liquid Honda",
           "code": "TL",
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "0fb10505-2895-4ab7-89ed-ff9cff075c6b",
         "startsAt": "2025-05-04T20:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
         },
         "opponentTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
@@ -68,13 +78,6 @@
           "name": "Round 4",
           "indexInSplit": 3
         },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-        },
         "opponentTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
           "name": "Disguised",
@@ -91,13 +94,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
         },
         "opponentTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
@@ -116,13 +112,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-        },
         "opponentTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
           "name": "FlyQuest",
@@ -139,13 +128,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
         },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
@@ -164,13 +146,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-        },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
           "name": "Dignitas",
@@ -187,13 +162,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
         },
         "opponentTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
-        },
         "opponentTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
           "name": "Shopify Rebellion",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
-          "name": "Cloud9 Kia",
-          "code": "C9",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
         },
         "opponentTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
@@ -695,6 +649,69 @@
         "pentakills": 0
       },
       {
+        "gameId": "b4b72f3b-da67-4673-b59c-87c79e36a6e1",
+        "matchId": "9596eff9-049e-4961-89e8-9e42d6a1604e",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-10T20:00:00.000Z",
+        "championName": "MissFortune",
+        "championId": 21,
+        "teamKills": 19,
+        "duration": 1881059,
+        "cs": 290,
+        "damage": 16154.7861328125,
+        "csAt15": 146,
+        "kills": 2,
+        "deaths": 1,
+        "assists": 13,
+        "win": true,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 13,
+            "value": 13,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 290,
+            "value": 2.9,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.79,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 22.9,
+        "pentakills": 0
+      },
+      {
         "gameId": "dae243bb-8b92-42d1-beb4-397acc20133b",
         "matchId": "6143bcf5-2272-4572-96f8-11203d23be8e",
         "indexInMatch": 0,
@@ -836,6 +853,75 @@
           }
         ],
         "points": 27.83,
+        "pentakills": 0
+      },
+      {
+        "gameId": "3c0e7c51-fa51-4362-99b2-5ffa887761d1",
+        "matchId": "9596eff9-049e-4961-89e8-9e42d6a1604e",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-10T20:00:00.000Z",
+        "championName": "Corki",
+        "championId": 42,
+        "teamKills": 20,
+        "duration": 2886758,
+        "cs": 431.3999996185303,
+        "damage": 50212.1796875,
+        "csAt15": 133,
+        "kills": 6,
+        "deaths": 3,
+        "assists": 13,
+        "win": true,
+        "details": [
+          {
+            "count": 6,
+            "value": 9,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 13,
+            "value": 13,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 431.4,
+            "value": 4.31,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.95,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.33,
+            "value": 3,
+            "detailType": "damage_share_30",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1043.64,
+            "value": 1.5,
+            "detailType": "bot_dpm_over_1000",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 30.81,
         "pentakills": 0
       },
       {

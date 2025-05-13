@@ -1,0 +1,242 @@
+{
+  "data": {
+    "player": {
+      "id": "27450c86-59e3-4ac3-8ac1-87689d65fca7",
+      "name": "Grevthar",
+      "lolesports_player_id": "103743619023893329",
+      "role": "mid",
+      "profilePictureUrl": "http://static.lolesports.com/players/1737726420299_image638.png",
+      "currentTeamId": "a2432df5-f804-44b4-ab1f-f7f0472e977b"
+    },
+    "upcomingMatches": [
+      {
+        "matchId": "6402de45-108b-4cfa-9ffb-3a11b19f2fa2",
+        "startsAt": "2025-05-18T18:00:00.000Z",
+        "status": "upcoming",
+        "round": {
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
+        },
+        "ownTeam": {
+          "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
+          "name": "RED Kalunga",
+          "code": "RED",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+        },
+        "opponentTeam": {
+          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
+          "name": "Leviatán Esports",
+          "code": "LEV",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "startsAt": "2025-05-11T18:00:00.000Z",
+        "score": 18.11,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
+        },
+        "opponentTeam": {
+          "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
+          "name": "LOUD",
+          "code": "LOUD",
+          "side": "blue",
+          "imageUrl": "https://lolcdn.fracassi.tech/loud_2.png"
+        }
+      }
+    ],
+    "games": [
+      {
+        "gameId": "54bc5fbd-05d3-4bbb-95df-f19eccae339f",
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-11T18:00:00.000Z",
+        "championName": "Ahri",
+        "championId": 103,
+        "teamKills": 27,
+        "duration": 2176863,
+        "cs": 294,
+        "damage": 23757.7578125,
+        "csAt15": 168,
+        "kills": 5,
+        "deaths": 4,
+        "assists": 15,
+        "win": true,
+        "details": [
+          {
+            "count": 5,
+            "value": 7.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 15,
+            "value": 15,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 294,
+            "value": 2.94,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.74,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 26.44,
+        "pentakills": 0
+      },
+      {
+        "gameId": "712499b4-51d4-4a0f-b6b4-8c1f168969bf",
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-11T18:00:00.000Z",
+        "championName": "Ryze",
+        "championId": 13,
+        "teamKills": 5,
+        "duration": 1750000,
+        "cs": 240,
+        "damage": 13299.791015625,
+        "csAt15": 127,
+        "kills": 1,
+        "deaths": 2,
+        "assists": 3,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": 3,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": -2,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 240,
+            "value": 2.4,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.8,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.32,
+            "value": 3,
+            "detailType": "damage_share_30",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.32,
+            "value": 3,
+            "detailType": "mid_damage_share_over_30",
+            "displayMode": "int"
+          }
+        ],
+        "points": 12.9,
+        "pentakills": 0
+      },
+      {
+        "gameId": "0d2b0934-0030-45c9-8218-26fd5196c17c",
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-11T18:00:00.000Z",
+        "championName": "Viktor",
+        "championId": 112,
+        "teamKills": 15,
+        "duration": 2715703,
+        "cs": 349.3999996185303,
+        "damage": 28176.947265625,
+        "csAt15": 149,
+        "kills": 3,
+        "deaths": 4,
+        "assists": 8,
+        "win": false,
+        "details": [
+          {
+            "count": 3,
+            "value": 4.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 8,
+            "value": 8,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "first_blood",
+            "displayMode": "single"
+          },
+          {
+            "count": 349.4,
+            "value": 3.49,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.73,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 14.99,
+        "pentakills": 0
+      }
+    ]
+  }
+}

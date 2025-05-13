@@ -10,20 +10,39 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
-        "startsAt": "2025-05-10T15:00:00.000Z",
+        "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
+        "startsAt": "2025-05-18T15:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
           "name": "Isurus Estral",
           "code": "IE",
-          "side": "red",
+          "side": "blue",
           "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
+        },
+        "opponentTeam": {
+          "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
+          "name": "Fluxo W7M",
+          "code": "FXW7",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
+        "startsAt": "2025-05-10T15:00:00.000Z",
+        "score": 9.06,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
         },
         "opponentTeam": {
           "id": "683ad629-21a7-4e8f-93a4-7eaeb46056d4",
@@ -32,9 +51,7 @@
           "side": "blue",
           "imageUrl": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "89d08927-8a3d-4f16-9492-71b38f9deeed",
         "startsAt": "2025-05-04T18:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
-          "name": "Isurus Estral",
-          "code": "IE",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
         },
         "opponentTeam": {
           "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
@@ -68,13 +78,6 @@
           "name": "Round 4",
           "indexInSplit": 3
         },
-        "ownTeam": {
-          "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
-          "name": "Isurus Estral",
-          "code": "IE",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
-        },
         "opponentTeam": {
           "id": "c175fae2-ab23-4c91-baac-50c366f9f59a",
           "name": "Vivo Keyd Stars",
@@ -91,13 +94,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
-          "name": "Isurus Estral",
-          "code": "IE",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
         },
         "opponentTeam": {
           "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
@@ -116,13 +112,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
-          "name": "Isurus Estral",
-          "code": "IE",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
-        },
         "opponentTeam": {
           "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
           "name": "RED Kalunga",
@@ -139,13 +128,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
-          "name": "Isurus Estral",
-          "code": "IE",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
         },
         "opponentTeam": {
           "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
@@ -164,13 +146,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
-          "name": "Isurus Estral",
-          "code": "IE",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
-        },
         "opponentTeam": {
           "id": "c175fae2-ab23-4c91-baac-50c366f9f59a",
           "name": "Vivo Keyd Stars",
@@ -187,13 +162,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
-          "name": "Isurus Estral",
-          "code": "IE",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
         },
         "opponentTeam": {
           "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
@@ -536,6 +504,63 @@
         "pentakills": 0
       },
       {
+        "gameId": "ab8f4699-3e62-4c6e-ad3f-cb6c24714fba",
+        "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-10T15:00:00.000Z",
+        "championName": "Jayce",
+        "championId": 126,
+        "teamKills": 6,
+        "duration": 2144908,
+        "cs": 304,
+        "damage": 27215.0703125,
+        "csAt15": 159,
+        "kills": 1,
+        "deaths": 7,
+        "assists": 3,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": 3,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": -7,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 304,
+            "value": 3.04,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.23,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.27,
+            "value": 2,
+            "detailType": "top_tank",
+            "displayMode": "int"
+          }
+        ],
+        "points": 4.54,
+        "pentakills": 0
+      },
+      {
         "gameId": "f65c12ae-c430-4e47-8a91-714b9e74c8ca",
         "matchId": "89d08927-8a3d-4f16-9492-71b38f9deeed",
         "indexInMatch": 0,
@@ -707,6 +732,75 @@
         "pentakills": 0
       },
       {
+        "gameId": "a13b9d41-670a-4117-8c79-1de526772439",
+        "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-10T15:00:00.000Z",
+        "championName": "Gnar",
+        "championId": 150,
+        "teamKills": 19,
+        "duration": 1647526,
+        "cs": 230.40000009536743,
+        "damage": 13674.9501953125,
+        "csAt15": 125,
+        "kills": 5,
+        "deaths": 4,
+        "assists": 7,
+        "win": true,
+        "details": [
+          {
+            "count": 5,
+            "value": 7.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": 7,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 230.4,
+            "value": 2.3,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "top_solo_kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.21,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 18.8,
+        "pentakills": 0
+      },
+      {
         "gameId": "b0f6fd31-c6fb-4e8f-b68d-d9f54ee1b6a0",
         "matchId": "89d08927-8a3d-4f16-9492-71b38f9deeed",
         "indexInMatch": 2,
@@ -767,6 +861,69 @@
           }
         ],
         "points": 11.03,
+        "pentakills": 0
+      },
+      {
+        "gameId": "b52b4431-4b18-4e10-b30f-f6a1b65d37f9",
+        "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-10T15:00:00.000Z",
+        "championName": "Rumble",
+        "championId": 68,
+        "teamKills": 8,
+        "duration": 1697945,
+        "cs": 233,
+        "damage": 16326.5556640625,
+        "csAt15": 137,
+        "kills": 1,
+        "deaths": 6,
+        "assists": 2,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": -6,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "first_blood",
+            "displayMode": "single"
+          },
+          {
+            "count": 233,
+            "value": 2.33,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "top_solo_kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.25,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 3.83,
         "pentakills": 0
       }
     ]

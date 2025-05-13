@@ -10,20 +10,39 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
-        "startsAt": "2025-05-11T15:00:00.000Z",
+        "matchId": "1909362f-18e0-4fe3-a652-07f2b96affff",
+        "startsAt": "2025-05-17T15:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
           "name": "FURIA",
           "code": "FUR",
-          "side": "blue",
+          "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
+        },
+        "opponentTeam": {
+          "id": "683ad629-21a7-4e8f-93a4-7eaeb46056d4",
+          "name": "paiN Gaming",
+          "code": "PAIN",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1674657011011_pain_logo_white.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
+        "startsAt": "2025-05-11T15:00:00.000Z",
+        "score": 13.86,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
         },
         "opponentTeam": {
           "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
@@ -32,9 +51,7 @@
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "03c8c2cb-346b-4677-9546-3d1ec8abb753",
         "startsAt": "2025-05-03T18:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         },
         "opponentTeam": {
           "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
@@ -62,18 +72,11 @@
       {
         "matchId": "b566218b-fd22-4a5f-a003-58f62993e798",
         "startsAt": "2025-04-27T18:00:00.000Z",
-        "score": 29.87,
+        "score": 23.35,
         "round": {
           "id": "b39b0779-6a70-4624-b05e-26eec2cf2cbc",
           "name": "Round 4",
           "indexInSplit": 3
-        },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         },
         "opponentTeam": {
           "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
@@ -92,13 +95,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        },
         "opponentTeam": {
           "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
           "name": "LOUD",
@@ -115,13 +111,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         },
         "opponentTeam": {
           "id": "c175fae2-ab23-4c91-baac-50c366f9f59a",
@@ -140,13 +129,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        },
         "opponentTeam": {
           "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
           "name": "RED Kalunga",
@@ -163,13 +145,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         },
         "opponentTeam": {
           "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
@@ -188,13 +163,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        },
         "opponentTeam": {
           "id": "683ad629-21a7-4e8f-93a4-7eaeb46056d4",
           "name": "paiN Gaming",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
-        },
         "opponentTeam": {
           "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
           "name": "Isurus Estral",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
-          "name": "FURIA",
-          "code": "FUR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
         },
         "opponentTeam": {
           "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
@@ -509,6 +463,75 @@
           }
         ],
         "points": 5.52,
+        "pentakills": 0
+      },
+      {
+        "gameId": "778ea382-fada-4465-9c8a-3758d94b025f",
+        "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-11T15:00:00.000Z",
+        "championName": "Rumble",
+        "championId": 68,
+        "teamKills": 13,
+        "duration": 2066857,
+        "cs": 291.25,
+        "damage": 31088.84765625,
+        "csAt15": 161,
+        "kills": 6,
+        "deaths": 6,
+        "assists": 4,
+        "win": false,
+        "details": [
+          {
+            "count": 6,
+            "value": 9,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": 4,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": -6,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 291.25,
+            "value": 2.91,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.77,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.36,
+            "value": 3,
+            "detailType": "damage_share_30",
+            "displayMode": "percent"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "top_solo_kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.36,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 18.91,
         "pentakills": 0
       },
       {
@@ -920,6 +943,69 @@
         "pentakills": 0
       },
       {
+        "gameId": "0b93d923-ab17-402e-90fb-7e787f8363d4",
+        "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-11T15:00:00.000Z",
+        "championName": "Sion",
+        "championId": 14,
+        "teamKills": 14,
+        "duration": 1690377,
+        "cs": 225,
+        "damage": 14445.9599609375,
+        "csAt15": 144,
+        "kills": 1,
+        "deaths": 0,
+        "assists": 6,
+        "win": true,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": 6,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 225,
+            "value": 2.25,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 3,
+            "detailType": "perfect_scores",
+            "displayMode": "single"
+          }
+        ],
+        "points": 15.75,
+        "pentakills": 0
+      },
+      {
         "gameId": "d48092e5-d768-43f7-8e9e-2196e4af9207",
         "matchId": "03c8c2cb-346b-4677-9546-3d1ec8abb753",
         "indexInMatch": 1,
@@ -992,6 +1078,63 @@
           }
         ],
         "points": 26.28,
+        "pentakills": 0
+      },
+      {
+        "gameId": "1341ecaf-e6b6-42f8-b8e9-8e46492f6d32",
+        "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-11T15:00:00.000Z",
+        "championName": "Gwen",
+        "championId": 887,
+        "teamKills": 9,
+        "duration": 2060686,
+        "cs": 291,
+        "damage": 25009.34765625,
+        "csAt15": 151,
+        "kills": 0,
+        "deaths": 5,
+        "assists": 5,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": 5,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": -5,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 291,
+            "value": 2.91,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.28,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.26,
+            "value": 2,
+            "detailType": "top_tank",
+            "displayMode": "int"
+          }
+        ],
+        "points": 6.91,
         "pentakills": 0
       },
       {

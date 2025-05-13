@@ -10,13 +10,13 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
-        "startsAt": "2025-05-11T23:00:00.000Z",
+        "matchId": "e46b0007-42c4-4de7-8400-2496a6c15249",
+        "startsAt": "2025-05-18T23:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
@@ -26,15 +26,32 @@
           "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
         },
         "opponentTeam": {
+          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
+          "name": "100 Thieves",
+          "code": "100T",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
+        "startsAt": "2025-05-11T23:00:00.000Z",
+        "score": 5.05,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
+        },
+        "opponentTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
           "name": "LYON",
           "code": "LYON",
           "side": "blue",
           "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "f312ab3d-e95b-42db-b32e-27f8ad223645",
         "startsAt": "2025-05-03T23:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
         },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
@@ -62,18 +72,11 @@
       {
         "matchId": "137d60a3-bb6d-4581-be41-ac89ed8133eb",
         "startsAt": "2025-04-27T20:00:00.000Z",
-        "score": 15.78,
+        "score": 9.49,
         "round": {
           "id": "b39b0779-6a70-4624-b05e-26eec2cf2cbc",
           "name": "Round 4",
           "indexInSplit": 3
-        },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
         },
         "opponentTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
@@ -92,13 +95,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-        },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
           "name": "Team Liquid Honda",
@@ -115,13 +111,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
         },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
@@ -140,13 +129,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-        },
         "opponentTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
           "name": "Shopify Rebellion",
@@ -163,13 +145,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
         },
         "opponentTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
@@ -188,13 +163,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-        },
         "opponentTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
           "name": "Cloud9 Kia",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
-        },
         "opponentTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
           "name": "FlyQuest",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
-          "name": "Disguised",
-          "code": "DSG",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
         },
         "opponentTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
@@ -467,6 +421,63 @@
           }
         ],
         "points": 7.18,
+        "pentakills": 0
+      },
+      {
+        "gameId": "2ba84502-5f01-490b-9126-ce3d974a08d5",
+        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-11T23:00:00.000Z",
+        "championName": "Alistar",
+        "championId": 12,
+        "teamKills": 7,
+        "duration": 2000417,
+        "cs": 41,
+        "damage": 3383.7861328125,
+        "csAt15": 28,
+        "kills": 0,
+        "deaths": 3,
+        "assists": 5,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": 5,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 41,
+            "value": 0.41,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.71,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 3.89,
+            "value": 3.89,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 8.3,
         "pentakills": 0
       },
       {
@@ -776,6 +787,57 @@
           }
         ],
         "points": 8.51,
+        "pentakills": 0
+      },
+      {
+        "gameId": "4fc02192-e764-414c-bab2-a83a276108ae",
+        "matchId": "816f8eb9-61ac-4fea-8d4f-bcc5665e3535",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-11T23:00:00.000Z",
+        "championName": "Leona",
+        "championId": 89,
+        "teamKills": 13,
+        "duration": 2022152,
+        "cs": 44,
+        "damage": 3624.19580078125,
+        "csAt15": 34,
+        "kills": 0,
+        "deaths": 7,
+        "assists": 5,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": 5,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": -7,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 44,
+            "value": 0.44,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.35,
+            "value": 3.35,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 1.79,
         "pentakills": 0
       },
       {

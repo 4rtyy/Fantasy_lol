@@ -10,20 +10,39 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
-        "startsAt": "2025-05-11T18:00:00.000Z",
+        "matchId": "6402de45-108b-4cfa-9ffb-3a11b19f2fa2",
+        "startsAt": "2025-05-18T18:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
           "name": "RED Kalunga",
           "code": "RED",
-          "side": "red",
+          "side": "blue",
           "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+        },
+        "opponentTeam": {
+          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
+          "name": "Leviatán Esports",
+          "code": "LEV",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "startsAt": "2025-05-11T18:00:00.000Z",
+        "score": 16.09,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
         },
         "opponentTeam": {
           "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
@@ -32,9 +51,7 @@
           "side": "blue",
           "imageUrl": "https://lolcdn.fracassi.tech/loud_2.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "03c8c2cb-346b-4677-9546-3d1ec8abb753",
         "startsAt": "2025-05-03T18:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
-          "name": "RED Kalunga",
-          "code": "RED",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
         },
         "opponentTeam": {
           "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
@@ -68,13 +78,6 @@
           "name": "Round 4",
           "indexInSplit": 3
         },
-        "ownTeam": {
-          "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
-          "name": "RED Kalunga",
-          "code": "RED",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
-        },
         "opponentTeam": {
           "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
           "name": "Fluxo W7M",
@@ -92,13 +95,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
-          "name": "RED Kalunga",
-          "code": "RED",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
-        },
         "opponentTeam": {
           "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
           "name": "Fluxo W7M",
@@ -109,6 +105,75 @@
       }
     ],
     "games": [
+      {
+        "gameId": "54bc5fbd-05d3-4bbb-95df-f19eccae339f",
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-11T18:00:00.000Z",
+        "championName": "XinZhao",
+        "championId": 5,
+        "teamKills": 27,
+        "duration": 2176863,
+        "cs": 258.49993896484375,
+        "damage": 19772.720703125,
+        "csAt15": 121.20003509521484,
+        "kills": 6,
+        "deaths": 2,
+        "assists": 12,
+        "win": true,
+        "details": [
+          {
+            "count": 6,
+            "value": 9,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 12,
+            "value": 12,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": -2,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 258.5,
+            "value": 2.58,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "jng_dragon_soul",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "jng_barons",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 28.08,
+        "pentakills": 0
+      },
       {
         "gameId": "566cd82a-8f75-4fdb-80ee-6b0bbd8ea273",
         "matchId": "26f5a6d8-f166-4d49-88bf-2a6d8bfb6a93",
@@ -323,6 +388,51 @@
         "pentakills": 0
       },
       {
+        "gameId": "712499b4-51d4-4a0f-b6b4-8c1f168969bf",
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-11T18:00:00.000Z",
+        "championName": "Vi",
+        "championId": 254,
+        "teamKills": 5,
+        "duration": 1750000,
+        "cs": 172.00003051757812,
+        "damage": 3057.59765625,
+        "csAt15": 108.00003814697266,
+        "kills": 2,
+        "deaths": 4,
+        "assists": 1,
+        "win": false,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 172,
+            "value": 1.72,
+            "detailType": "cs",
+            "displayMode": "int"
+          }
+        ],
+        "points": 1.72,
+        "pentakills": 0
+      },
+      {
         "gameId": "d48092e5-d768-43f7-8e9e-2196e4af9207",
         "matchId": "03c8c2cb-346b-4677-9546-3d1ec8abb753",
         "indexInMatch": 1,
@@ -446,6 +556,69 @@
           }
         ],
         "points": 31.77,
+        "pentakills": 0
+      },
+      {
+        "gameId": "0d2b0934-0030-45c9-8218-26fd5196c17c",
+        "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-11T18:00:00.000Z",
+        "championName": "Skarner",
+        "championId": 72,
+        "teamKills": 15,
+        "duration": 2715703,
+        "cs": 246.64993286132812,
+        "damage": 14862.818359375,
+        "csAt15": 123.0000228881836,
+        "kills": 3,
+        "deaths": 5,
+        "assists": 9,
+        "win": false,
+        "details": [
+          {
+            "count": 3,
+            "value": 4.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 9,
+            "value": 9,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": -5,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 246.65,
+            "value": 2.47,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.8,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 2,
+            "value": 4,
+            "detailType": "jng_barons",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.8,
+            "value": 1.5,
+            "detailType": "jng_kp_over_75",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 18.47,
         "pentakills": 0
       }
     ]

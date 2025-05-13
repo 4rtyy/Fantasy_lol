@@ -10,20 +10,39 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "8be42928-9fec-4cde-bd49-04d7c5d646ca",
-        "startsAt": "2025-05-10T18:00:00.000Z",
+        "matchId": "6402de45-108b-4cfa-9ffb-3a11b19f2fa2",
+        "startsAt": "2025-05-18T18:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
           "name": "Leviatán Esports",
           "code": "LEV",
-          "side": "blue",
+          "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
+        },
+        "opponentTeam": {
+          "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
+          "name": "RED Kalunga",
+          "code": "RED",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "8be42928-9fec-4cde-bd49-04d7c5d646ca",
+        "startsAt": "2025-05-10T18:00:00.000Z",
+        "score": 4.06,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
         },
         "opponentTeam": {
           "id": "c175fae2-ab23-4c91-baac-50c366f9f59a",
@@ -32,9 +51,7 @@
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1670542079678_vks.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "89d08927-8a3d-4f16-9492-71b38f9deeed",
         "startsAt": "2025-05-04T18:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
         },
         "opponentTeam": {
           "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
@@ -62,18 +72,11 @@
       {
         "matchId": "cfe9de51-c793-48a3-8b5a-feef0e332725",
         "startsAt": "2025-04-26T15:00:00.000Z",
-        "score": 5.33,
+        "score": 5.39,
         "round": {
           "id": "b39b0779-6a70-4624-b05e-26eec2cf2cbc",
           "name": "Round 4",
           "indexInSplit": 3
-        },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
         },
         "opponentTeam": {
           "id": "683ad629-21a7-4e8f-93a4-7eaeb46056d4",
@@ -92,13 +95,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
-        },
         "opponentTeam": {
           "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
           "name": "Isurus Estral",
@@ -115,13 +111,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
         },
         "opponentTeam": {
           "id": "683ad629-21a7-4e8f-93a4-7eaeb46056d4",
@@ -140,13 +129,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
-        },
         "opponentTeam": {
           "id": "c175fae2-ab23-4c91-baac-50c366f9f59a",
           "name": "Vivo Keyd Stars",
@@ -163,13 +145,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
         },
         "opponentTeam": {
           "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
@@ -188,13 +163,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
-        },
         "opponentTeam": {
           "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
           "name": "RED Kalunga",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
-        },
         "opponentTeam": {
           "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
           "name": "Fluxo W7M",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
-          "name": "Leviatán Esports",
-          "code": "LEV",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
         },
         "opponentTeam": {
           "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
@@ -296,6 +250,51 @@
           }
         ],
         "points": 0.97,
+        "pentakills": 0
+      },
+      {
+        "gameId": "24298fbd-acd0-4dba-b11b-4e59820fa36f",
+        "matchId": "8be42928-9fec-4cde-bd49-04d7c5d646ca",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-10T18:00:00.000Z",
+        "championName": "Ashe",
+        "championId": 22,
+        "teamKills": 4,
+        "duration": 1690393,
+        "cs": 272,
+        "damage": 13557.2236328125,
+        "csAt15": 146,
+        "kills": 0,
+        "deaths": 1,
+        "assists": 2,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 272,
+            "value": 2.72,
+            "detailType": "cs",
+            "displayMode": "int"
+          }
+        ],
+        "points": 3.72,
         "pentakills": 0
       },
       {
@@ -779,6 +778,51 @@
           }
         ],
         "points": 22.94,
+        "pentakills": 0
+      },
+      {
+        "gameId": "a44ecb14-7130-43d3-afdd-c176b71a8e34",
+        "matchId": "8be42928-9fec-4cde-bd49-04d7c5d646ca",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-10T18:00:00.000Z",
+        "championName": "Corki",
+        "championId": 42,
+        "teamKills": 3,
+        "duration": 1466432,
+        "cs": 239.79999995231628,
+        "damage": 12555.208984375,
+        "csAt15": 151,
+        "kills": 2,
+        "deaths": 1,
+        "assists": 0,
+        "win": false,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 239.8,
+            "value": 2.4,
+            "detailType": "cs",
+            "displayMode": "int"
+          }
+        ],
+        "points": 4.4,
         "pentakills": 0
       },
       {

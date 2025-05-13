@@ -1,0 +1,1029 @@
+{
+  "data": {
+    "player": {
+      "id": "1ac1f17b-4cd5-4227-9da3-49ffe726a3c5",
+      "name": "Ceos",
+      "lolesports_player_id": "101383793153915529",
+      "role": "support",
+      "profilePictureUrl": "http://static.lolesports.com/players/1739479848530_ggsdgs11.png",
+      "currentTeamId": "d45bf435-19e0-4e92-8120-dfcd6badfd8e"
+    },
+    "upcomingMatches": [
+      {
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "startsAt": "2025-05-10T23:00:00.000Z",
+        "status": "upcoming",
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
+          "name": "100 Thieves",
+          "code": "100T",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "88b2abb0-0a26-4cbf-a40d-912467f5f11a",
+        "startsAt": "2025-05-03T20:00:00.000Z",
+        "score": 5.68,
+        "round": {
+          "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
+          "name": "Round 5",
+          "indexInSplit": 4
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
+          "name": "FlyQuest",
+          "code": "FLY",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
+        }
+      },
+      {
+        "matchId": "4006626a-73fa-4b79-ac3e-9eae767bb853",
+        "startsAt": "2025-04-27T23:00:00.000Z",
+        "score": 4.67,
+        "round": {
+          "id": "b39b0779-6a70-4624-b05e-26eec2cf2cbc",
+          "name": "Round 4",
+          "indexInSplit": 3
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
+          "name": "Dignitas",
+          "code": "DIG",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/DIG-FullonDark.png"
+        }
+      },
+      {
+        "matchId": "0cc2f25a-62d2-4ddb-a23f-e0dfa758f8a9",
+        "startsAt": "2025-04-21T23:00:00.000Z",
+        "score": 11.41,
+        "round": {
+          "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
+          "name": "Round 3",
+          "indexInSplit": 2
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
+          "name": "100 Thieves",
+          "code": "100T",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
+        }
+      },
+      {
+        "matchId": "ebe7f672-70c8-4a05-b23e-11a1a6bb3088",
+        "startsAt": "2025-04-20T22:00:00.000Z",
+        "score": 8.56,
+        "round": {
+          "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
+          "name": "Round 3",
+          "indexInSplit": 2
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
+          "name": "Team Liquid Honda",
+          "code": "TL",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png"
+        }
+      },
+      {
+        "matchId": "97ecf235-c45d-40f2-a925-e3b732a2cc18",
+        "startsAt": "2025-04-19T23:00:00.000Z",
+        "score": 27.55,
+        "round": {
+          "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
+          "name": "Round 3",
+          "indexInSplit": 2
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
+          "name": "Disguised",
+          "code": "DSG",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1731496922454_Disguised-Wordmark-Yellow-Main.png"
+        }
+      },
+      {
+        "matchId": "2348106e-e2f3-4aa1-8706-a30c119dd5db",
+        "startsAt": "2025-04-13T21:00:00.000Z",
+        "score": -2.08,
+        "round": {
+          "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
+          "name": "Round 2",
+          "indexInSplit": 1
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
+          "name": "FlyQuest",
+          "code": "FLY",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/flyquest-new-on-dark.png"
+        }
+      },
+      {
+        "matchId": "c2001cbd-1280-4cd2-9034-840a102ddfb1",
+        "startsAt": "2025-04-12T23:00:00.000Z",
+        "score": 2.83,
+        "round": {
+          "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
+          "name": "Round 2",
+          "indexInSplit": 1
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
+          "name": "LYON",
+          "code": "LYON",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1734602870842_logofinallyon-05.png"
+        }
+      },
+      {
+        "matchId": "6143bcf5-2272-4572-96f8-11203d23be8e",
+        "startsAt": "2025-04-06T20:00:00.000Z",
+        "score": 4.42,
+        "round": {
+          "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
+          "name": "Round 1",
+          "indexInSplit": 0
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
+          "name": "Cloud9 Kia",
+          "code": "C9",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+        }
+      },
+      {
+        "matchId": "034ef2d5-1a41-4292-b3c1-d7fb587a02c8",
+        "startsAt": "2025-04-05T21:00:00.000Z",
+        "score": 12.15,
+        "round": {
+          "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
+          "name": "Round 1",
+          "indexInSplit": 0
+        },
+        "ownTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        },
+        "opponentTeam": {
+          "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
+          "name": "Dignitas",
+          "code": "DIG",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/DIG-FullonDark.png"
+        }
+      }
+    ],
+    "games": [
+      {
+        "gameId": "2cede886-110a-4b6c-a175-0055af1076a8",
+        "matchId": "ebe7f672-70c8-4a05-b23e-11a1a6bb3088",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-20T22:00:00.000Z",
+        "championName": "Alistar",
+        "championId": 12,
+        "teamKills": 11,
+        "duration": 1916185,
+        "cs": 28,
+        "damage": 3157.82958984375,
+        "csAt15": 20,
+        "kills": 1,
+        "deaths": 2,
+        "assists": 6,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": 6,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": -2,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 28,
+            "value": 0.28,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 2.78,
+            "value": 2.78,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 8.56,
+        "pentakills": 0
+      },
+      {
+        "gameId": "44fa21c6-1987-4cfe-b9e8-421436dfcf42",
+        "matchId": "4006626a-73fa-4b79-ac3e-9eae767bb853",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-27T23:00:00.000Z",
+        "championName": "Nautilus",
+        "championId": 111,
+        "teamKills": 14,
+        "duration": 1920572,
+        "cs": 33,
+        "damage": 4565.80810546875,
+        "csAt15": 23,
+        "kills": 0,
+        "deaths": 3,
+        "assists": 11,
+        "win": true,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 11,
+            "value": 11,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 33,
+            "value": 0.33,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.79,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 11,
+            "value": 2,
+            "detailType": "sup_assists_over_10",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.79,
+            "value": 2,
+            "detailType": "sup_kp_over_75",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "sup_first_dragon",
+            "displayMode": "single"
+          },
+          {
+            "count": 3.28,
+            "value": 3.28,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 22.11,
+        "pentakills": 0
+      },
+      {
+        "gameId": "4532aecc-69d9-4c79-b78a-6c8bbf4c91b9",
+        "matchId": "2348106e-e2f3-4aa1-8706-a30c119dd5db",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-13T21:00:00.000Z",
+        "championName": "Leona",
+        "championId": 89,
+        "teamKills": 14,
+        "duration": 2171835,
+        "cs": 41,
+        "damage": 6383.15478515625,
+        "csAt15": 22,
+        "kills": 0,
+        "deaths": 10,
+        "assists": 4,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": 4,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 10,
+            "value": -10,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 41,
+            "value": 0.41,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.51,
+            "value": 3.51,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": -2.08,
+        "pentakills": 0
+      },
+      {
+        "gameId": "51591fda-ee9e-467b-9a88-f8721c4c6533",
+        "matchId": "88b2abb0-0a26-4cbf-a40d-912467f5f11a",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-03T20:00:00.000Z",
+        "championName": "Rakan",
+        "championId": 497,
+        "teamKills": 8,
+        "duration": 1859504,
+        "cs": 38,
+        "damage": 2707.9248046875,
+        "csAt15": 24,
+        "kills": 0,
+        "deaths": 4,
+        "assists": 4,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": 4,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 38,
+            "value": 0.38,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.66,
+            "value": 3.66,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 4.04,
+        "pentakills": 0
+      },
+      {
+        "gameId": "8a01d62c-8893-497c-8f54-424f54ca5872",
+        "matchId": "c2001cbd-1280-4cd2-9034-840a102ddfb1",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-12T23:00:00.000Z",
+        "championName": "Rakan",
+        "championId": 497,
+        "teamKills": 3,
+        "duration": 1986521,
+        "cs": 30,
+        "damage": 2939.81201171875,
+        "csAt15": 19,
+        "kills": 0,
+        "deaths": 3,
+        "assists": 2,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 30,
+            "value": 0.3,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.53,
+            "value": 3.53,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 2.83,
+        "pentakills": 0
+      },
+      {
+        "gameId": "d00967b6-7bf1-47e9-8f3a-17e367a17e3f",
+        "matchId": "034ef2d5-1a41-4292-b3c1-d7fb587a02c8",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-05T21:00:00.000Z",
+        "championName": "Leona",
+        "championId": 89,
+        "teamKills": 20,
+        "duration": 3206740,
+        "cs": 55,
+        "damage": 8833.9951171875,
+        "csAt15": 23,
+        "kills": 2,
+        "deaths": 5,
+        "assists": 8,
+        "win": true,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 8,
+            "value": 8,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": -5,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 55,
+            "value": 0.55,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 4.6,
+            "value": 4.6,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 12.15,
+        "pentakills": 0
+      },
+      {
+        "gameId": "dae243bb-8b92-42d1-beb4-397acc20133b",
+        "matchId": "6143bcf5-2272-4572-96f8-11203d23be8e",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-06T20:00:00.000Z",
+        "championName": "Leona",
+        "championId": 89,
+        "teamKills": 7,
+        "duration": 2099630,
+        "cs": 37,
+        "damage": 3929.792724609375,
+        "csAt15": 26,
+        "kills": 0,
+        "deaths": 4,
+        "assists": 4,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": 4,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 37,
+            "value": 0.37,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 4.05,
+            "value": 4.05,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 4.42,
+        "pentakills": 0
+      },
+      {
+        "gameId": "e220e0ba-1492-43f3-9aed-8470bc350bc5",
+        "matchId": "0cc2f25a-62d2-4ddb-a23f-e0dfa758f8a9",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-21T23:00:00.000Z",
+        "championName": "Leona",
+        "championId": 89,
+        "teamKills": 9,
+        "duration": 2142183,
+        "cs": 40,
+        "damage": 2739.8779296875,
+        "csAt15": 24,
+        "kills": 1,
+        "deaths": 3,
+        "assists": 4,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": 7,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 240.6,
+            "value": 2.41,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.89,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.89,
+            "value": 1.5,
+            "detailType": "jng_kp_over_75",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 11.41,
+        "pentakills": 0
+      },
+      {
+        "gameId": "fa31b679-62bc-4283-95d6-c004dd23922a",
+        "matchId": "97ecf235-c45d-40f2-a925-e3b732a2cc18",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-04-19T23:00:00.000Z",
+        "championName": "Alistar",
+        "championId": 12,
+        "teamKills": 15,
+        "duration": 2172332,
+        "cs": 38,
+        "damage": 4406.53076171875,
+        "csAt15": 25,
+        "kills": 0,
+        "deaths": 1,
+        "assists": 14,
+        "win": true,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 14,
+            "value": 14,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 38,
+            "value": 0.38,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.93,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 14,
+            "value": 2,
+            "detailType": "sup_assists_over_10",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.93,
+            "value": 2,
+            "detailType": "sup_kp_over_75",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "sup_first_dragon",
+            "displayMode": "single"
+          },
+          {
+            "count": 3.67,
+            "value": 3.67,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 27.55,
+        "pentakills": 0
+      },
+      {
+        "gameId": "4914e62d-5d13-43cb-9538-54e34f81bc37",
+        "matchId": "4006626a-73fa-4b79-ac3e-9eae767bb853",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-04-27T23:00:00.000Z",
+        "championName": "Leona",
+        "championId": 89,
+        "teamKills": 15,
+        "duration": 2611866,
+        "cs": 56,
+        "damage": 6887.12841796875,
+        "csAt15": 34,
+        "kills": 0,
+        "deaths": 5,
+        "assists": 13,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 13,
+            "value": 13,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": -5,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 56,
+            "value": 0.56,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.87,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 13,
+            "value": 2,
+            "detailType": "sup_assists_over_10",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.87,
+            "value": 2,
+            "detailType": "sup_kp_over_75",
+            "displayMode": "percent"
+          },
+          {
+            "count": 3.96,
+            "value": 3.96,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 18.52,
+        "pentakills": 0
+      },
+      {
+        "gameId": "a9f37c40-1f0a-49ee-adb2-cd23309a51c6",
+        "matchId": "88b2abb0-0a26-4cbf-a40d-912467f5f11a",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-03T20:00:00.000Z",
+        "championName": "Nautilus",
+        "championId": 111,
+        "teamKills": 12,
+        "duration": 2116565,
+        "cs": 41,
+        "damage": 4509.7626953125,
+        "csAt15": 29,
+        "kills": 0,
+        "deaths": 2,
+        "assists": 6,
+        "win": true,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": 6,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": -2,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 41,
+            "value": 0.41,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.5,
+            "value": 3.5,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 8.91,
+        "pentakills": 0
+      },
+      {
+        "gameId": "26398d30-8e3a-452e-8959-62b1f42ed309",
+        "matchId": "4006626a-73fa-4b79-ac3e-9eae767bb853",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-04-27T23:00:00.000Z",
+        "championName": "Pantheon",
+        "championId": 80,
+        "teamKills": 11,
+        "duration": 2651346,
+        "cs": 48,
+        "damage": 8967.927734375,
+        "csAt15": 23,
+        "kills": 1,
+        "deaths": 6,
+        "assists": 5,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": 5,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": -6,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 48,
+            "value": 0.48,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.69,
+            "value": 3.69,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 4.67,
+        "pentakills": 0
+      },
+      {
+        "gameId": "6f77c379-32af-4ab0-9705-11faa4b1defa",
+        "matchId": "88b2abb0-0a26-4cbf-a40d-912467f5f11a",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-03T20:00:00.000Z",
+        "championName": "Rell",
+        "championId": 526,
+        "teamKills": 7,
+        "duration": 1878546,
+        "cs": 42,
+        "damage": 3751.1474609375,
+        "csAt15": 32,
+        "kills": 0,
+        "deaths": 3,
+        "assists": 3,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": 3,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 42,
+            "value": 0.42,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.68,
+            "value": 3.68,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 4.1,
+        "pentakills": 0
+      }
+    ]
+  }
+}

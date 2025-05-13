@@ -10,13 +10,13 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
-        "startsAt": "2025-05-10T23:00:00.000Z",
+        "matchId": "c5f5ee81-0c26-4b9d-a31f-e0533517eeb4",
+        "startsAt": "2025-05-17T23:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
-          "name": "Round 6",
-          "indexInSplit": 5
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "ownTeam": {
           "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
@@ -26,15 +26,32 @@
           "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
         },
         "opponentTeam": {
+          "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
+          "name": "Team Liquid Honda",
+          "code": "TL",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "startsAt": "2025-05-10T23:00:00.000Z",
+        "score": 16.73,
+        "round": {
+          "id": "a0ffad52-7185-4f09-8634-f5a99a8ca1d4",
+          "name": "Round 6",
+          "indexInSplit": 5
+        },
+        "opponentTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
           "name": "100 Thieves",
           "code": "100T",
           "side": "blue",
           "imageUrl": "http://static.lolesports.com/teams/1631819887423_100t-2021-worlds.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "88b2abb0-0a26-4cbf-a40d-912467f5f11a",
         "startsAt": "2025-05-03T20:00:00.000Z",
@@ -43,13 +60,6 @@
           "id": "39c3ebf9-0228-4fd3-9f1d-49c346485efc",
           "name": "Round 5",
           "indexInSplit": 4
-        },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
         },
         "opponentTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
@@ -62,18 +72,11 @@
       {
         "matchId": "4006626a-73fa-4b79-ac3e-9eae767bb853",
         "startsAt": "2025-04-27T23:00:00.000Z",
-        "score": 4.67,
+        "score": 15.1,
         "round": {
           "id": "b39b0779-6a70-4624-b05e-26eec2cf2cbc",
           "name": "Round 4",
           "indexInSplit": 3
-        },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
         },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
@@ -92,13 +95,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-        },
         "opponentTeam": {
           "id": "95e2c264-b4c6-435d-9699-397ccf3df180",
           "name": "100 Thieves",
@@ -115,13 +111,6 @@
           "id": "dcee2a80-2869-4705-aa52-e9e2fb23ba5b",
           "name": "Round 3",
           "indexInSplit": 2
-        },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
         },
         "opponentTeam": {
           "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
@@ -140,13 +129,6 @@
           "name": "Round 3",
           "indexInSplit": 2
         },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-        },
         "opponentTeam": {
           "id": "a7520418-4986-4870-8c86-7c5acd3f443c",
           "name": "Disguised",
@@ -163,13 +145,6 @@
           "id": "3b3da616-b3a0-4afa-bd7e-7ab3db84c4fd",
           "name": "Round 2",
           "indexInSplit": 1
-        },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
         },
         "opponentTeam": {
           "id": "848fdaaf-589a-4e94-b3dc-90299584db0b",
@@ -188,13 +163,6 @@
           "name": "Round 2",
           "indexInSplit": 1
         },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-        },
         "opponentTeam": {
           "id": "47a8978e-8e16-434c-ba6d-a9e7bb1956ef",
           "name": "LYON",
@@ -212,13 +180,6 @@
           "name": "Round 1",
           "indexInSplit": 0
         },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
-        },
         "opponentTeam": {
           "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
           "name": "Cloud9 Kia",
@@ -235,13 +196,6 @@
           "id": "c317612c-220c-41ef-af2a-482f96d60dbd",
           "name": "Round 1",
           "indexInSplit": 0
-        },
-        "ownTeam": {
-          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
-          "name": "Shopify Rebellion",
-          "code": "SR",
-          "side": "blue",
-          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
         },
         "opponentTeam": {
           "id": "cf32ee67-1ed0-483e-8c80-9a45a2406ec7",
@@ -302,6 +256,57 @@
           }
         ],
         "points": 8.56,
+        "pentakills": 0
+      },
+      {
+        "gameId": "3610bf12-c842-474a-9d2a-c7bc9d56a1ab",
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-10T23:00:00.000Z",
+        "championName": "Nautilus",
+        "championId": 111,
+        "teamKills": 12,
+        "duration": 2292876,
+        "cs": 33,
+        "damage": 5140.43408203125,
+        "csAt15": 23,
+        "kills": 0,
+        "deaths": 7,
+        "assists": 7,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": 7,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": -7,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 33,
+            "value": 0.33,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.53,
+            "value": 3.53,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          }
+        ],
+        "points": 3.86,
         "pentakills": 0
       },
       {
@@ -923,6 +928,87 @@
         "pentakills": 0
       },
       {
+        "gameId": "fe24b6b2-602a-4170-834e-dc402dc93373",
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-10T23:00:00.000Z",
+        "championName": "Rakan",
+        "championId": 497,
+        "teamKills": 23,
+        "duration": 2376081,
+        "cs": 23,
+        "damage": 5966.08154296875,
+        "csAt15": 12,
+        "kills": 0,
+        "deaths": 3,
+        "assists": 21,
+        "win": true,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 21,
+            "value": 21,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 23,
+            "value": 0.23,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.91,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 21,
+            "value": 2,
+            "detailType": "sup_assists_over_10",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.91,
+            "value": 2,
+            "detailType": "sup_kp_over_75",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "sup_first_dragon",
+            "displayMode": "single"
+          },
+          {
+            "count": 3.68,
+            "value": 3.68,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 30.41,
+        "pentakills": 0
+      },
+      {
         "gameId": "26398d30-8e3a-452e-8959-62b1f42ed309",
         "matchId": "4006626a-73fa-4b79-ac3e-9eae767bb853",
         "indexInMatch": 2,
@@ -1022,6 +1108,69 @@
           }
         ],
         "points": 4.1,
+        "pentakills": 0
+      },
+      {
+        "gameId": "b92a2cb4-42f5-4fb7-a827-0aa58895505e",
+        "matchId": "a7e5a058-9d48-4c7a-a5ce-0224d8b8052f",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-10T23:00:00.000Z",
+        "championName": "Milio",
+        "championId": 902,
+        "teamKills": 13,
+        "duration": 2388948,
+        "cs": 38,
+        "damage": 4605.984375,
+        "csAt15": 24,
+        "kills": 0,
+        "deaths": 0,
+        "assists": 8,
+        "win": true,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 8,
+            "value": 8,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 38,
+            "value": 0.38,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 3.53,
+            "value": 3.53,
+            "detailType": "sup_vision_score",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 3,
+            "detailType": "perfect_scores",
+            "displayMode": "single"
+          }
+        ],
+        "points": 15.91,
         "pentakills": 0
       }
     ]
