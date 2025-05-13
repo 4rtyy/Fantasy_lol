@@ -1,45 +1,21 @@
 {
-  "historico": [
-    {
-      "timestamp": "2024-12-01T14:32:10",
-      "orcamento": 73.4,
-      "odds": {
-        "Isurus Estral": 1.17,
-        "Dignitas": 2.8,
-        "Vivo Keyd Stars": 1.65,
-        "Cloud9 Kia": 2.1,
-        "FURIA": 2.35,
-        "Shopify Rebellion": 6.0,
-        "RED Kalunga": 1.65,
-        "LOUD": 2.15,
-        "Disguised": 7.5,
-        "Leviat\u00e1n Esports": 2.15,
-        "LYON": 1.4,
-        "FlyQuest": 1.68,
-        "paiN Gaming": 1.55,
-        "Team Liquid Honda": 1.1,
-        "100 Thieves": 1.06,
-        "Fluxo W7M": 4.5
-      }
-    }
-  ],
-  "orcamento": 69.3,
+  "orcamento": 73.4,
   "odds": {
-    "Isurus Estral": 3.6,
-    "Dignitas": 10.0,
-    "Vivo Keyd Stars": 1.52,
-    "Cloud9 Kia": 1.65,
-    "FURIA": 1.06,
-    "Shopify Rebellion": 4.2,
-    "RED Kalunga": 2.2,
-    "LOUD": 1.62,
-    "Disguised": 3.4,
-    "Leviat\u00e1n Esports": 2.4,
-    "LYON": 1.28,
-    "FlyQuest": 1.03,
-    "paiN Gaming": 1.26,
-    "Team Liquid Honda": 2.15,
-    "100 Thieves": 1.2,
-    "Fluxo W7M": 7.5
+    "Isurus Estral": 1.17,
+    "Dignitas": 2.8,
+    "Vivo Keyd Stars": 1.65,
+    "Cloud9 Kia": 2.1,
+    "FURIA": 2.35,
+    "Shopify Rebellion": 6.0,
+    "RED Kalunga": 1.65,
+    "LOUD": 2.15,
+    "Disguised": 7.5,
+    "Leviat\u00e1n Esports": 2.15,
+    "LYON": 1.4,
+    "FlyQuest": 1.68,
+    "paiN Gaming": 1.55,
+    "Team Liquid Honda": 1.1,
+    "100 Thieves": 1.06,
+    "Fluxo W7M": 4.5
   }
 }
