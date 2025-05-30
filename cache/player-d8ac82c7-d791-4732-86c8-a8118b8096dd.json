@@ -8,22 +8,16 @@
       "profilePictureUrl": "http://static.lolesports.com/players/1738736849056_image648.png",
       "currentTeamId": "72db290b-b1de-495c-98d8-de58cd5651c6"
     },
-    "upcomingMatches": [
+    "upcomingMatches": [],
+    "recentMatches": [
       {
         "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
-        "startsAt": "2025-05-18T15:00:00.000Z",
-        "status": "upcoming",
+        "startsAt": "2025-05-17T18:00:00.000Z",
+        "score": 4.47,
         "round": {
           "id": "e32be7d4-a306-4222-8849-018716d69aef",
           "name": "Round 7",
           "indexInSplit": 6
-        },
-        "ownTeam": {
-          "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
-          "name": "Fluxo W7M",
-          "code": "FXW7",
-          "side": "red",
-          "imageUrl": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG"
         },
         "opponentTeam": {
           "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
@@ -32,9 +26,7 @@
           "side": "blue",
           "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
         "startsAt": "2025-05-11T15:00:00.000Z",
@@ -208,7 +200,7 @@
     ],
     "games": [
       {
-        "gameId": "1b3928dd-f597-4981-8996-f340ae6c3fd1",
+        "id": "1b3928dd-f597-4981-8996-f340ae6c3fd1",
         "matchId": "a81c33ef-a93a-4706-b101-f05616536d70",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-20T17:00:00.000Z",
@@ -253,7 +245,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "566cd82a-8f75-4fdb-80ee-6b0bbd8ea273",
+        "id": "566cd82a-8f75-4fdb-80ee-6b0bbd8ea273",
         "matchId": "26f5a6d8-f166-4d49-88bf-2a6d8bfb6a93",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-21T16:00:00.000Z",
@@ -322,7 +314,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "62cd3cc0-2e43-4b8c-af7b-cd7f109df56e",
+        "id": "62cd3cc0-2e43-4b8c-af7b-cd7f109df56e",
         "matchId": "7dd6de1e-77b3-44ae-bd89-9ecf42ac3257",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-12T17:00:00.000Z",
@@ -391,7 +383,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "67162708-40fd-46e2-a8c9-78e091e9ccda",
+        "id": "67162708-40fd-46e2-a8c9-78e091e9ccda",
         "matchId": "9bd72e87-c022-4da2-ad7b-c831c50b714b",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-13T19:00:00.000Z",
@@ -454,7 +446,58 @@
         "pentakills": 0
       },
       {
-        "gameId": "778ea382-fada-4465-9c8a-3758d94b025f",
+        "id": "6a5295f2-28e2-4f40-9b71-66b2a92d0cb1",
+        "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-17T18:00:00.000Z",
+        "championName": "Taliyah",
+        "championId": 163,
+        "teamKills": 11,
+        "duration": 2173380,
+        "cs": 286,
+        "damage": 19669.482421875,
+        "csAt15": 158,
+        "kills": 1,
+        "deaths": 6,
+        "assists": 8,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 8,
+            "value": 8,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": -6,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 286,
+            "value": 2.86,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.82,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 8.36,
+        "pentakills": 0
+      },
+      {
+        "id": "778ea382-fada-4465-9c8a-3758d94b025f",
         "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
         "indexInMatch": 0,
         "gameTimestamp": "2025-05-11T15:00:00.000Z",
@@ -511,7 +554,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "83350ba4-fbb9-4deb-93b8-fb3c00e59080",
+        "id": "83350ba4-fbb9-4deb-93b8-fb3c00e59080",
         "matchId": "0cd23e9c-1c53-4184-bb47-30896589d1a5",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-27T15:00:00.000Z",
@@ -574,7 +617,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "a22e9da2-8f4a-4840-8c78-779f8607a4fa",
+        "id": "a22e9da2-8f4a-4840-8c78-779f8607a4fa",
         "matchId": "77844d3b-5744-4fed-846f-7a285f7a11fb",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-19T17:00:00.000Z",
@@ -619,7 +662,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "a622d9eb-d5be-4256-a349-170084359243",
+        "id": "a622d9eb-d5be-4256-a349-170084359243",
         "matchId": "bc645cfe-a664-4076-b23c-8ea3969fb4b5",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-05T18:00:00.000Z",
@@ -682,7 +725,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "ac3fee53-4ffd-4dd7-a95c-d677755593ba",
+        "id": "ac3fee53-4ffd-4dd7-a95c-d677755593ba",
         "matchId": "e752b06b-47dd-481b-a813-6b3886de3c64",
         "indexInMatch": 0,
         "gameTimestamp": "2025-05-03T15:00:00.000Z",
@@ -733,7 +776,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "c4fc3e19-a7a4-47b1-96f0-3ac8edbe7e8d",
+        "id": "c4fc3e19-a7a4-47b1-96f0-3ac8edbe7e8d",
         "matchId": "495e10cb-a9ea-43d9-96a2-415ea5929673",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-06T18:00:00.000Z",
@@ -796,7 +839,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "0b93d923-ab17-402e-90fb-7e787f8363d4",
+        "id": "0b93d923-ab17-402e-90fb-7e787f8363d4",
         "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
         "indexInMatch": 1,
         "gameTimestamp": "2025-05-11T15:00:00.000Z",
@@ -841,7 +884,52 @@
         "pentakills": 0
       },
       {
-        "gameId": "83042545-1614-49ec-b089-cf5d5dd1e233",
+        "id": "630b6195-2f7e-48f8-8214-1c1145140715",
+        "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-17T18:00:00.000Z",
+        "championName": "Galio",
+        "championId": 3,
+        "teamKills": 4,
+        "duration": 2234646,
+        "cs": 259,
+        "damage": 11623.1181640625,
+        "csAt15": 121,
+        "kills": 0,
+        "deaths": 4,
+        "assists": 2,
+        "win": false,
+        "details": [
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 259,
+            "value": 2.59,
+            "detailType": "cs",
+            "displayMode": "int"
+          }
+        ],
+        "points": 0.59,
+        "pentakills": 0
+      },
+      {
+        "id": "83042545-1614-49ec-b089-cf5d5dd1e233",
         "matchId": "e752b06b-47dd-481b-a813-6b3886de3c64",
         "indexInMatch": 1,
         "gameTimestamp": "2025-05-03T15:00:00.000Z",
@@ -892,7 +980,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "fe09ea2a-ae18-43c9-aa2a-c6fb2b1caedb",
+        "id": "fe09ea2a-ae18-43c9-aa2a-c6fb2b1caedb",
         "matchId": "0cd23e9c-1c53-4184-bb47-30896589d1a5",
         "indexInMatch": 1,
         "gameTimestamp": "2025-04-27T15:00:00.000Z",
@@ -955,7 +1043,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "1341ecaf-e6b6-42f8-b8e9-8e46492f6d32",
+        "id": "1341ecaf-e6b6-42f8-b8e9-8e46492f6d32",
         "matchId": "e661bff2-30fe-40e7-975e-c9bd53a530f9",
         "indexInMatch": 2,
         "gameTimestamp": "2025-05-11T15:00:00.000Z",

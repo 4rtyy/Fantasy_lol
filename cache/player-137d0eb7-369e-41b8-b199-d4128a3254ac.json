@@ -10,20 +10,39 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
-        "startsAt": "2025-05-18T15:00:00.000Z",
+        "matchId": "ade1215c-6761-42b6-bfd8-eb4b4f1c1bc4",
+        "startsAt": "2025-05-31T16:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "e32be7d4-a306-4222-8849-018716d69aef",
-          "name": "Round 7",
-          "indexInSplit": 6
+          "id": "083e0a6a-6387-4cb5-8bc7-d7127526ca72",
+          "name": "Round 9",
+          "indexInSplit": 8
         },
         "ownTeam": {
           "id": "e18adcf1-9fd9-482a-8624-58fff9ecfa45",
           "name": "Isurus Estral",
           "code": "IE",
-          "side": "blue",
+          "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1733496976364_badge-Color-svg.png"
+        },
+        "opponentTeam": {
+          "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
+          "name": "LOUD",
+          "code": "LOUD",
+          "side": "blue",
+          "imageUrl": "https://lolcdn.fracassi.tech/loud_2.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
+        "startsAt": "2025-05-17T18:00:00.000Z",
+        "score": 27.27,
+        "round": {
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "opponentTeam": {
           "id": "72db290b-b1de-495c-98d8-de58cd5651c6",
@@ -32,9 +51,7 @@
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1738138907381_OFFICIALFluxo_W7M_Logo.PNG"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
         "startsAt": "2025-05-10T15:00:00.000Z",
@@ -208,7 +225,7 @@
     ],
     "games": [
       {
-        "gameId": "19ae6a73-2c34-4806-adf4-f144f4e6a9ed",
+        "id": "19ae6a73-2c34-4806-adf4-f144f4e6a9ed",
         "matchId": "e166a9ad-e3d2-40dc-bb6a-16debeab06a4",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-20T18:00:00.000Z",
@@ -271,7 +288,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "2e268a89-ea5f-49fa-9a2f-3231ca999586",
+        "id": "2e268a89-ea5f-49fa-9a2f-3231ca999586",
         "matchId": "70b0d024-7214-4838-9662-c594eb85b063",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-13T17:00:00.000Z",
@@ -316,7 +333,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "62cd3cc0-2e43-4b8c-af7b-cd7f109df56e",
+        "id": "62cd3cc0-2e43-4b8c-af7b-cd7f109df56e",
         "matchId": "7dd6de1e-77b3-44ae-bd89-9ecf42ac3257",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-12T17:00:00.000Z",
@@ -367,7 +384,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "69fcc852-8562-463f-8eb2-2a6e347b0abf",
+        "id": "69fcc852-8562-463f-8eb2-2a6e347b0abf",
         "matchId": "cb4153b9-e625-4eb0-acc3-bb89b282232f",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-26T18:00:00.000Z",
@@ -412,7 +429,76 @@
         "pentakills": 0
       },
       {
-        "gameId": "80a5b638-e9f0-478b-9303-23847c827a1a",
+        "id": "6a5295f2-28e2-4f40-9b71-66b2a92d0cb1",
+        "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-17T18:00:00.000Z",
+        "championName": "Ashe",
+        "championId": 22,
+        "teamKills": 24,
+        "duration": 2173380,
+        "cs": 362.5499973297119,
+        "damage": 25825.23828125,
+        "csAt15": 156,
+        "kills": 5,
+        "deaths": 0,
+        "assists": 13,
+        "win": true,
+        "details": [
+          {
+            "count": 5,
+            "value": 7.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 13,
+            "value": 13,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 362.55,
+            "value": 3.63,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.75,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 3,
+            "detailType": "perfect_scores",
+            "displayMode": "single"
+          }
+        ],
+        "points": 32.13,
+        "pentakills": 0
+      },
+      {
+        "id": "80a5b638-e9f0-478b-9303-23847c827a1a",
         "matchId": "3fd4a1f6-ceb7-480d-8fdc-e41a1ac86183",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-21T19:00:00.000Z",
@@ -463,7 +549,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "840b032f-e5eb-4a5f-9f29-30eece0cf763",
+        "id": "840b032f-e5eb-4a5f-9f29-30eece0cf763",
         "matchId": "32ac51e8-a9b4-408e-8455-5aee595d5947",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-19T19:00:00.000Z",
@@ -514,7 +600,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "ab8f4699-3e62-4c6e-ad3f-cb6c24714fba",
+        "id": "ab8f4699-3e62-4c6e-ad3f-cb6c24714fba",
         "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
         "indexInMatch": 0,
         "gameTimestamp": "2025-05-10T15:00:00.000Z",
@@ -559,7 +645,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "d3e0206d-c0c3-4d84-8f93-b2265978b3f0",
+        "id": "d3e0206d-c0c3-4d84-8f93-b2265978b3f0",
         "matchId": "0b960bc0-dda2-4c2c-aa2f-38552b9ce770",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-06T16:00:00.000Z",
@@ -610,7 +696,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "e9924274-1d39-4f75-b9f3-442a5d61c736",
+        "id": "e9924274-1d39-4f75-b9f3-442a5d61c736",
         "matchId": "ac7879f4-8ead-4601-b225-42bd0592f49d",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-05T16:00:00.000Z",
@@ -655,7 +741,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "f65c12ae-c430-4e47-8a91-714b9e74c8ca",
+        "id": "f65c12ae-c430-4e47-8a91-714b9e74c8ca",
         "matchId": "89d08927-8a3d-4f16-9492-71b38f9deeed",
         "indexInMatch": 0,
         "gameTimestamp": "2025-05-04T18:00:00.000Z",
@@ -712,7 +798,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "3abc79f9-7450-482a-a427-57a1a81dd53b",
+        "id": "3abc79f9-7450-482a-a427-57a1a81dd53b",
         "matchId": "89d08927-8a3d-4f16-9492-71b38f9deeed",
         "indexInMatch": 1,
         "gameTimestamp": "2025-05-04T18:00:00.000Z",
@@ -763,7 +849,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "5f37cef2-9e6d-4aa2-9ccf-c681483d5698",
+        "id": "5f37cef2-9e6d-4aa2-9ccf-c681483d5698",
         "matchId": "cb4153b9-e625-4eb0-acc3-bb89b282232f",
         "indexInMatch": 1,
         "gameTimestamp": "2025-04-26T18:00:00.000Z",
@@ -808,7 +894,76 @@
         "pentakills": 0
       },
       {
-        "gameId": "a13b9d41-670a-4117-8c79-1de526772439",
+        "id": "630b6195-2f7e-48f8-8214-1c1145140715",
+        "matchId": "7c17a65e-bf1f-4b49-bbad-529a3959a5ed",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-17T18:00:00.000Z",
+        "championName": "Senna",
+        "championId": 235,
+        "teamKills": 14,
+        "duration": 2234646,
+        "cs": 290,
+        "damage": 23880.865234375,
+        "csAt15": 138,
+        "kills": 5,
+        "deaths": 1,
+        "assists": 6,
+        "win": true,
+        "details": [
+          {
+            "count": 5,
+            "value": 7.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": 6,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 290,
+            "value": 2.9,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.79,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "triple_kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 22.4,
+        "pentakills": 0
+      },
+      {
+        "id": "a13b9d41-670a-4117-8c79-1de526772439",
         "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
         "indexInMatch": 1,
         "gameTimestamp": "2025-05-10T15:00:00.000Z",
@@ -865,7 +1020,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "b0f6fd31-c6fb-4e8f-b68d-d9f54ee1b6a0",
+        "id": "b0f6fd31-c6fb-4e8f-b68d-d9f54ee1b6a0",
         "matchId": "89d08927-8a3d-4f16-9492-71b38f9deeed",
         "indexInMatch": 2,
         "gameTimestamp": "2025-05-04T18:00:00.000Z",
@@ -934,7 +1089,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "b52b4431-4b18-4e10-b30f-f6a1b65d37f9",
+        "id": "b52b4431-4b18-4e10-b30f-f6a1b65d37f9",
         "matchId": "fbacf69f-1b99-4c7f-ac8a-c83662fe46ae",
         "indexInMatch": 2,
         "gameTimestamp": "2025-05-10T15:00:00.000Z",

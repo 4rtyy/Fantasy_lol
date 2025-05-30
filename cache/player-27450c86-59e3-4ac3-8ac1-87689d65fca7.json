@@ -10,20 +10,39 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "6402de45-108b-4cfa-9ffb-3a11b19f2fa2",
-        "startsAt": "2025-05-18T18:00:00.000Z",
+        "matchId": "2acce00d-b686-4062-8a1f-68c81007be81",
+        "startsAt": "2025-06-01T16:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "e32be7d4-a306-4222-8849-018716d69aef",
-          "name": "Round 7",
-          "indexInSplit": 6
+          "id": "083e0a6a-6387-4cb5-8bc7-d7127526ca72",
+          "name": "Round 9",
+          "indexInSplit": 8
         },
         "ownTeam": {
           "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
           "name": "RED Kalunga",
           "code": "RED",
-          "side": "blue",
+          "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+        },
+        "opponentTeam": {
+          "id": "c175fae2-ab23-4c91-baac-50c366f9f59a",
+          "name": "Vivo Keyd Stars",
+          "code": "VKS",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1670542079678_vks.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "6402de45-108b-4cfa-9ffb-3a11b19f2fa2",
+        "startsAt": "2025-05-18T18:00:00.000Z",
+        "score": 20.35,
+        "round": {
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
         },
         "opponentTeam": {
           "id": "829e391d-72ec-4ecf-bf11-9d53a2337070",
@@ -32,9 +51,7 @@
           "side": "red",
           "imageUrl": "http://static.lolesports.com/teams/1643795049372_LEV-CLAROWhite.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
         "startsAt": "2025-05-11T18:00:00.000Z",
@@ -55,7 +72,7 @@
     ],
     "games": [
       {
-        "gameId": "54bc5fbd-05d3-4bbb-95df-f19eccae339f",
+        "id": "54bc5fbd-05d3-4bbb-95df-f19eccae339f",
         "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
         "indexInMatch": 0,
         "gameTimestamp": "2025-05-11T18:00:00.000Z",
@@ -118,7 +135,70 @@
         "pentakills": 0
       },
       {
-        "gameId": "712499b4-51d4-4a0f-b6b4-8c1f168969bf",
+        "id": "c3f9a7e7-d255-4a9e-a295-18c9616390c4",
+        "matchId": "6402de45-108b-4cfa-9ffb-3a11b19f2fa2",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-18T18:00:00.000Z",
+        "championName": "Annie",
+        "championId": 1,
+        "teamKills": 18,
+        "duration": 1872280,
+        "cs": 234,
+        "damage": 15744.912109375,
+        "csAt15": 154,
+        "kills": 1,
+        "deaths": 2,
+        "assists": 10,
+        "win": true,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 10,
+            "value": 10,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": -2,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "first_blood",
+            "displayMode": "single"
+          },
+          {
+            "count": 234,
+            "value": 2.34,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 15.84,
+        "pentakills": 0
+      },
+      {
+        "id": "712499b4-51d4-4a0f-b6b4-8c1f168969bf",
         "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
         "indexInMatch": 1,
         "gameTimestamp": "2025-05-11T18:00:00.000Z",
@@ -181,7 +261,70 @@
         "pentakills": 0
       },
       {
-        "gameId": "0d2b0934-0030-45c9-8218-26fd5196c17c",
+        "id": "bfcd0112-e6af-4bac-b956-f0f6808b8754",
+        "matchId": "6402de45-108b-4cfa-9ffb-3a11b19f2fa2",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-18T18:00:00.000Z",
+        "championName": "Viktor",
+        "championId": 112,
+        "teamKills": 20,
+        "duration": 1719114,
+        "cs": 235,
+        "damage": 32408.017578125,
+        "csAt15": 151,
+        "kills": 5,
+        "deaths": 0,
+        "assists": 9,
+        "win": true,
+        "details": [
+          {
+            "count": 5,
+            "value": 7.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 9,
+            "value": 9,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 235,
+            "value": 2.35,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 3,
+            "detailType": "perfect_scores",
+            "displayMode": "single"
+          }
+        ],
+        "points": 24.85,
+        "pentakills": 0
+      },
+      {
+        "id": "0d2b0934-0030-45c9-8218-26fd5196c17c",
         "matchId": "fd749795-db38-4c75-bae0-bcf97051cf50",
         "indexInMatch": 2,
         "gameTimestamp": "2025-05-11T18:00:00.000Z",

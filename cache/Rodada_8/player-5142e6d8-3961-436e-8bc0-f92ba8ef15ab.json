@@ -1,0 +1,197 @@
+{
+  "data": {
+    "player": {
+      "id": "5142e6d8-3961-436e-8bc0-f92ba8ef15ab",
+      "name": "Yuuji",
+      "lolesports_player_id": "107424990007380124",
+      "role": "jungle",
+      "profilePictureUrl": "http://static.lolesports.com/players/1674833289175_FLY_YUUJI.png",
+      "currentTeamId": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea"
+    },
+    "upcomingMatches": [
+      {
+        "matchId": "d15094b2-864b-49f2-b997-3ec6981018d1",
+        "startsAt": "2025-05-25T20:00:00.000Z",
+        "status": "upcoming",
+        "round": {
+          "id": "14447d6c-6db5-403a-9571-426193016b11",
+          "name": "Round 8",
+          "indexInSplit": 7
+        },
+        "ownTeam": {
+          "id": "40dbf5d2-24ba-4894-b90f-4397fe4a53ea",
+          "name": "Team Liquid",
+          "code": "TL",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1631820014208_tl-2021-worlds.png"
+        },
+        "opponentTeam": {
+          "id": "1155b4eb-b55e-4cf2-9d66-9476d31db16f",
+          "name": "Cloud9 Kia",
+          "code": "C9",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/1736924120254_C9Kia_IconBlue_Transparent_2000x2000.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "c5f5ee81-0c26-4b9d-a31f-e0533517eeb4",
+        "startsAt": "2025-05-18T20:00:00.000Z",
+        "score": 26.05,
+        "round": {
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
+        },
+        "opponentTeam": {
+          "id": "d45bf435-19e0-4e92-8120-dfcd6badfd8e",
+          "name": "Shopify Rebellion",
+          "code": "SR",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1701424227458_Teams204_Shopify_1632869404072.png"
+        }
+      }
+    ],
+    "games": [
+      {
+        "gameId": "3f68d5ed-c5e4-4aa9-9dd1-c1c4b2aed004",
+        "matchId": "c5f5ee81-0c26-4b9d-a31f-e0533517eeb4",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-18T20:00:00.000Z",
+        "championName": "Pantheon",
+        "championId": 80,
+        "teamKills": 25,
+        "duration": 1717575,
+        "cs": 212.99990844726565,
+        "damage": 12233.3095703125,
+        "csAt15": 137,
+        "kills": 4,
+        "deaths": 2,
+        "assists": 7,
+        "win": true,
+        "details": [
+          {
+            "count": 4,
+            "value": 6,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": 7,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": -2,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 213,
+            "value": 2.13,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "jng_dragon_soul",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "jng_barons",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 19.63,
+        "pentakills": 0
+      },
+      {
+        "gameId": "dcb05bcb-8ef4-48dd-a19e-c4ee6400a859",
+        "matchId": "c5f5ee81-0c26-4b9d-a31f-e0533517eeb4",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-18T20:00:00.000Z",
+        "championName": "Viego",
+        "championId": 234,
+        "teamKills": 26,
+        "duration": 2073087,
+        "cs": 245.5999755859375,
+        "damage": 12569.5546875,
+        "csAt15": 126.80003356933594,
+        "kills": 10,
+        "deaths": 1,
+        "assists": 8,
+        "win": true,
+        "details": [
+          {
+            "count": 10,
+            "value": 15,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 8,
+            "value": 8,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 245.6,
+            "value": 2.46,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "triple_kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 3,
+            "detailType": "over_ten_kills",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "jng_barons",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 32.46,
+        "pentakills": 0
+      }
+    ]
+  }
+}

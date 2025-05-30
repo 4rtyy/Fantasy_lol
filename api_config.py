@@ -52,6 +52,7 @@ def integrate_data():
     detalhes_map = {p.get("player", {}).get("id"): p for p in players_detalhes if p.get("player", {}).get("id")}
 
     rows = []
+
     for jogador in round_players:
         pro_id = jogador.get("proPlayerId")
         estat = stats_map.get(pro_id, {})
@@ -65,6 +66,11 @@ def integrate_data():
         recent_matches = detalhes.get("recentMatches", [])
         upcoming_matches = detalhes.get("upcomingMatches", [])
         games = detalhes.get("games", [])
+
+        # ✅ Ignora jogador se upcomingMatches estiver vazio ou ausente
+        if not upcoming_matches:
+            print(f"[INFO] Ignorando jogador {pro_id} - sem upcomingMatches.")
+            continue
 
         team_id = jogador.get("teamId")
         team_name = next((t["name"] for t in teams_data if t.get("id") == team_id), "Desconhecido")

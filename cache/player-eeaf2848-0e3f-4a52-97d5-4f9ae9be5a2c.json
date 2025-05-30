@@ -10,13 +10,13 @@
     },
     "upcomingMatches": [
       {
-        "matchId": "66fbb950-566d-425a-8f27-0e90c04c7ad2",
-        "startsAt": "2025-05-17T18:00:00.000Z",
+        "matchId": "2acce00d-b686-4062-8a1f-68c81007be81",
+        "startsAt": "2025-06-01T16:00:00.000Z",
         "status": "upcoming",
         "round": {
-          "id": "e32be7d4-a306-4222-8849-018716d69aef",
-          "name": "Round 7",
-          "indexInSplit": 6
+          "id": "083e0a6a-6387-4cb5-8bc7-d7127526ca72",
+          "name": "Round 9",
+          "indexInSplit": 8
         },
         "ownTeam": {
           "id": "c175fae2-ab23-4c91-baac-50c366f9f59a",
@@ -26,15 +26,49 @@
           "imageUrl": "http://static.lolesports.com/teams/1670542079678_vks.png"
         },
         "opponentTeam": {
+          "id": "a2432df5-f804-44b4-ab1f-f7f0472e977b",
+          "name": "RED Kalunga",
+          "code": "RED",
+          "side": "red",
+          "imageUrl": "http://static.lolesports.com/teams/1631820575924_red-2021-worlds.png"
+        }
+      }
+    ],
+    "recentMatches": [
+      {
+        "matchId": "04e7235a-1e4f-41f8-9f1d-9cf04a9d850b",
+        "startsAt": "2025-05-25T16:00:00.000Z",
+        "score": 6.06,
+        "round": {
+          "id": "14447d6c-6db5-403a-9571-426193016b11",
+          "name": "Round 8",
+          "indexInSplit": 7
+        },
+        "opponentTeam": {
+          "id": "830090bf-3455-4ef5-a0f5-b6147e0a772c",
+          "name": "FURIA",
+          "code": "FUR",
+          "side": "blue",
+          "imageUrl": "http://static.lolesports.com/teams/FURIA---black.png"
+        }
+      },
+      {
+        "matchId": "66fbb950-566d-425a-8f27-0e90c04c7ad2",
+        "startsAt": "2025-05-18T15:00:00.000Z",
+        "score": 15.66,
+        "round": {
+          "id": "e32be7d4-a306-4222-8849-018716d69aef",
+          "name": "Round 7",
+          "indexInSplit": 6
+        },
+        "opponentTeam": {
           "id": "476e41ef-14c4-4dd7-a829-0b889b0916aa",
           "name": "LOUD",
           "code": "LOUD",
           "side": "red",
           "imageUrl": "https://lolcdn.fracassi.tech/loud_2.png"
         }
-      }
-    ],
-    "recentMatches": [
+      },
       {
         "matchId": "8be42928-9fec-4cde-bd49-04d7c5d646ca",
         "startsAt": "2025-05-10T18:00:00.000Z",
@@ -208,7 +242,7 @@
     ],
     "games": [
       {
-        "gameId": "24298fbd-acd0-4dba-b11b-4e59820fa36f",
+        "id": "24298fbd-acd0-4dba-b11b-4e59820fa36f",
         "matchId": "8be42928-9fec-4cde-bd49-04d7c5d646ca",
         "indexInMatch": 0,
         "gameTimestamp": "2025-05-10T18:00:00.000Z",
@@ -265,7 +299,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "2a34d823-9ac5-4e77-b071-a3c746f7e95d",
+        "id": "2a34d823-9ac5-4e77-b071-a3c746f7e95d",
         "matchId": "4ca9dcb7-d481-48da-b287-b0d166286813",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-21T17:00:00.000Z",
@@ -328,7 +362,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "2dc15db5-fb89-4168-8991-8258cf32cc9e",
+        "id": "2dc15db5-fb89-4168-8991-8258cf32cc9e",
         "matchId": "be440195-587a-49ee-81f4-39316ff4d81a",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-20T19:00:00.000Z",
@@ -379,7 +413,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "2e268a89-ea5f-49fa-9a2f-3231ca999586",
+        "id": "2e268a89-ea5f-49fa-9a2f-3231ca999586",
         "matchId": "70b0d024-7214-4838-9662-c594eb85b063",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-13T17:00:00.000Z",
@@ -442,7 +476,64 @@
         "pentakills": 0
       },
       {
-        "gameId": "69fcc852-8562-463f-8eb2-2a6e347b0abf",
+        "id": "395e5ab2-5bdc-4495-ab2c-51f4660caeb0",
+        "matchId": "66fbb950-566d-425a-8f27-0e90c04c7ad2",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-18T15:00:00.000Z",
+        "championName": "KSante",
+        "championId": 897,
+        "teamKills": 7,
+        "duration": 1817862,
+        "cs": 232.25,
+        "damage": 13027.626953125,
+        "csAt15": 131,
+        "kills": 2,
+        "deaths": 3,
+        "assists": 5,
+        "win": false,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": 5,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 232.25,
+            "value": 2.32,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "kp_70",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.23,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 11.32,
+        "pentakills": 0
+      },
+      {
+        "id": "69fcc852-8562-463f-8eb2-2a6e347b0abf",
         "matchId": "cb4153b9-e625-4eb0-acc3-bb89b282232f",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-26T18:00:00.000Z",
@@ -499,7 +590,58 @@
         "pentakills": 0
       },
       {
-        "gameId": "86086231-7b81-40cc-82bf-bba9ecbbbc59",
+        "id": "702db977-7e72-4d3a-8b84-e4844e947b84",
+        "matchId": "04e7235a-1e4f-41f8-9f1d-9cf04a9d850b",
+        "indexInMatch": 0,
+        "gameTimestamp": "2025-05-25T16:00:00.000Z",
+        "championName": "Gwen",
+        "championId": 887,
+        "teamKills": 9,
+        "duration": 1935606,
+        "cs": 215,
+        "damage": 15717.521484375,
+        "csAt15": 96,
+        "kills": 2,
+        "deaths": 6,
+        "assists": 4,
+        "win": false,
+        "details": [
+          {
+            "count": 2,
+            "value": 3,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": 4,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 6,
+            "value": -6,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 215,
+            "value": 2.15,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.25,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          }
+        ],
+        "points": 5.15,
+        "pentakills": 0
+      },
+      {
+        "id": "86086231-7b81-40cc-82bf-bba9ecbbbc59",
         "matchId": "ff29602f-497d-4f0b-a1b3-fa3fc6aba1f1",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-12T16:00:00.000Z",
@@ -550,7 +692,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "88cd948a-631f-4d85-b1d1-854b507ca284",
+        "id": "88cd948a-631f-4d85-b1d1-854b507ca284",
         "matchId": "7fe6fe2d-7f8e-4e55-ac19-212eae28ee82",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-19T18:00:00.000Z",
@@ -619,7 +761,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "a622d9eb-d5be-4256-a349-170084359243",
+        "id": "a622d9eb-d5be-4256-a349-170084359243",
         "matchId": "bc645cfe-a664-4076-b23c-8ea3969fb4b5",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-05T18:00:00.000Z",
@@ -682,7 +824,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "b233f60b-94a2-428f-b209-04d9deebe116",
+        "id": "b233f60b-94a2-428f-b209-04d9deebe116",
         "matchId": "1cf7c622-150c-4961-ba63-bb2db2a78453",
         "indexInMatch": 0,
         "gameTimestamp": "2025-04-06T17:00:00.000Z",
@@ -751,7 +893,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "e9a39224-41a8-44d7-8629-2aa4d5ea795a",
+        "id": "e9a39224-41a8-44d7-8629-2aa4d5ea795a",
         "matchId": "a2c4e8a6-14c6-4b7d-ae3a-c6363365e79c",
         "indexInMatch": 0,
         "gameTimestamp": "2025-05-04T15:00:00.000Z",
@@ -814,7 +956,76 @@
         "pentakills": 0
       },
       {
-        "gameId": "53f02305-28f3-4496-96e5-2bca364c6363",
+        "id": "35edb303-9226-4676-85f3-577b065300be",
+        "matchId": "66fbb950-566d-425a-8f27-0e90c04c7ad2",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-18T15:00:00.000Z",
+        "championName": "Gwen",
+        "championId": 887,
+        "teamKills": 24,
+        "duration": 2165146,
+        "cs": 326.75,
+        "damage": 23711.068359375,
+        "csAt15": 140,
+        "kills": 3,
+        "deaths": 4,
+        "assists": 7,
+        "win": true,
+        "details": [
+          {
+            "count": 3,
+            "value": 4.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 7,
+            "value": 7,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 4,
+            "value": -4,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 326.75,
+            "value": 3.27,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.21,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.29,
+            "value": 2,
+            "detailType": "top_tank",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "stomp",
+            "displayMode": "single"
+          }
+        ],
+        "points": 17.77,
+        "pentakills": 0
+      },
+      {
+        "id": "53f02305-28f3-4496-96e5-2bca364c6363",
         "matchId": "a2c4e8a6-14c6-4b7d-ae3a-c6363365e79c",
         "indexInMatch": 1,
         "gameTimestamp": "2025-05-04T15:00:00.000Z",
@@ -877,7 +1088,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "5f37cef2-9e6d-4aa2-9ccf-c681483d5698",
+        "id": "5f37cef2-9e6d-4aa2-9ccf-c681483d5698",
         "matchId": "cb4153b9-e625-4eb0-acc3-bb89b282232f",
         "indexInMatch": 1,
         "gameTimestamp": "2025-04-26T18:00:00.000Z",
@@ -958,7 +1169,7 @@
         "pentakills": 0
       },
       {
-        "gameId": "a44ecb14-7130-43d3-afdd-c176b71a8e34",
+        "id": "a44ecb14-7130-43d3-afdd-c176b71a8e34",
         "matchId": "8be42928-9fec-4cde-bd49-04d7c5d646ca",
         "indexInMatch": 1,
         "gameTimestamp": "2025-05-10T18:00:00.000Z",
@@ -1045,7 +1256,133 @@
         "pentakills": 0
       },
       {
-        "gameId": "31346b54-36f6-43a0-b897-a750e3cad05c",
+        "id": "a6e40c4b-336d-489b-88ff-cf11a435c700",
+        "matchId": "04e7235a-1e4f-41f8-9f1d-9cf04a9d850b",
+        "indexInMatch": 1,
+        "gameTimestamp": "2025-05-25T16:00:00.000Z",
+        "championName": "Renekton",
+        "championId": 58,
+        "teamKills": 2,
+        "duration": 1674371,
+        "cs": 243,
+        "damage": 9236.70703125,
+        "csAt15": 134,
+        "kills": 1,
+        "deaths": 3,
+        "assists": 0,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 0,
+            "value": 0,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 243,
+            "value": 2.43,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.28,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.25,
+            "value": 2,
+            "detailType": "top_tank",
+            "displayMode": "int"
+          }
+        ],
+        "points": 4.93,
+        "pentakills": 0
+      },
+      {
+        "id": "19167f82-ee72-4f7a-9ae1-f7a7c269c28a",
+        "matchId": "66fbb950-566d-425a-8f27-0e90c04c7ad2",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-18T15:00:00.000Z",
+        "championName": "Fiora",
+        "championId": 114,
+        "teamKills": 14,
+        "duration": 1808904,
+        "cs": 288.6000003814697,
+        "damage": 22366.501953125,
+        "csAt15": 138,
+        "kills": 6,
+        "deaths": 3,
+        "assists": 2,
+        "win": true,
+        "details": [
+          {
+            "count": 6,
+            "value": 9,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 2,
+            "value": 2,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 3,
+            "value": -3,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 288.6,
+            "value": 2.89,
+            "detailType": "cs",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 2,
+            "detailType": "triple_kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 0.29,
+            "value": 2,
+            "detailType": "top_damage_share",
+            "displayMode": "percent"
+          },
+          {
+            "count": 0.28,
+            "value": 2,
+            "detailType": "top_tank",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": 1,
+            "detailType": "victory",
+            "displayMode": "single"
+          }
+        ],
+        "points": 17.89,
+        "pentakills": 0
+      },
+      {
+        "id": "31346b54-36f6-43a0-b897-a750e3cad05c",
         "matchId": "a2c4e8a6-14c6-4b7d-ae3a-c6363365e79c",
         "indexInMatch": 2,
         "gameTimestamp": "2025-05-04T15:00:00.000Z",
@@ -1111,6 +1448,51 @@
           }
         ],
         "points": 12.74,
+        "pentakills": 0
+      },
+      {
+        "id": "de1d9c1f-3e9e-440f-a6be-7325f587e87e",
+        "matchId": "04e7235a-1e4f-41f8-9f1d-9cf04a9d850b",
+        "indexInMatch": 2,
+        "gameTimestamp": "2025-05-25T16:00:00.000Z",
+        "championName": "Sion",
+        "championId": 14,
+        "teamKills": 13,
+        "duration": 1991012,
+        "cs": 261,
+        "damage": 12510.9736328125,
+        "csAt15": 139,
+        "kills": 1,
+        "deaths": 1,
+        "assists": 5,
+        "win": false,
+        "details": [
+          {
+            "count": 1,
+            "value": 1.5,
+            "detailType": "kills",
+            "displayMode": "int"
+          },
+          {
+            "count": 5,
+            "value": 5,
+            "detailType": "asssits",
+            "displayMode": "int"
+          },
+          {
+            "count": 1,
+            "value": -1,
+            "detailType": "deaths",
+            "displayMode": "int"
+          },
+          {
+            "count": 261,
+            "value": 2.61,
+            "detailType": "cs",
+            "displayMode": "int"
+          }
+        ],
+        "points": 8.11,
         "pentakills": 0
       }
     ]
